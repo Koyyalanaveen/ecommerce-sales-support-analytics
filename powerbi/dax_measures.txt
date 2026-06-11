@@ -1,0 +1,111 @@
+-- =========================================================
+-- Power BI DAX Measures
+-- Project: E-Commerce Sales and Customer Support Analytics
+-- =========================================================
+-- Note:
+-- Create these measures in Power BI after loading cleaned CSV files.
+-- Table names may appear as:
+-- orders_cleaned
+-- order_items_cleaned
+-- customers_cleaned
+-- deliveries_cleaned
+-- support_tickets_cleaned
+-- =========================================================
+
+
+-- =========================
+-- Sales Measures
+-- =========================
+
+Total Sales = SUM(order_items_cleaned[revenue])
+
+Total Profit = SUM(order_items_cleaned[profit])
+
+Total Quantity Sold = SUM(order_items_cleaned[quantity])
+
+Total Orders = DISTINCTCOUNT(orders_cleaned[order_id])
+
+Total Customers = DISTINCTCOUNT(customers_cleaned[customer_id])
+
+Average Order Value = DIVIDE([Total Sales], [Total Orders])
+
+Profit Margin % = DIVIDE([Total Profit], [Total Sales])
+
+
+-- =========================
+-- Return Measures
+-- =========================
+
+Returned Items =
+CALCULATE(
+    COUNT(order_items_cleaned[order_item_id]),
+    order_items_cleaned[return_status] = "Returned"
+)
+
+Total Order Items = COUNT(order_items_cleaned[order_item_id])
+
+Return Rate % = DIVIDE([Returned Items], [Total Order Items])
+
+
+-- =========================
+-- Delivery Measures
+-- =========================
+
+Total Deliveries = COUNT(deliveries_cleaned[delivery_id])
+
+Delayed Orders =
+CALCULATE(
+    COUNT(deliveries_cleaned[delivery_id]),
+    deliveries_cleaned[delivery_status] = "Delayed"
+)
+
+On Time Deliveries =
+CALCULATE(
+    COUNT(deliveries_cleaned[delivery_id]),
+    deliveries_cleaned[delivery_status] = "On Time"
+)
+
+Delay Rate % = DIVIDE([Delayed Orders], [Total Deliveries])
+
+On Time Delivery Rate % = DIVIDE([On Time Deliveries], [Total Deliveries])
+
+Average Delay Days = AVERAGE(deliveries_cleaned[delay_days])
+
+
+-- =========================
+-- Customer Support Measures
+-- =========================
+
+Total Support Tickets = COUNT(support_tickets_cleaned[ticket_id])
+
+Open Tickets =
+CALCULATE(
+    COUNT(support_tickets_cleaned[ticket_id]),
+    support_tickets_cleaned[ticket_status] = "Open"
+)
+
+Closed Tickets =
+CALCULATE(
+    COUNT(support_tickets_cleaned[ticket_id]),
+    support_tickets_cleaned[ticket_status] = "Closed"
+)
+
+Escalated Tickets =
+CALCULATE(
+    COUNT(support_tickets_cleaned[ticket_id]),
+    support_tickets_cleaned[ticket_status] = "Escalated"
+)
+
+Average Resolution Days = AVERAGE(support_tickets_cleaned[resolution_days])
+
+Average Satisfaction Score = AVERAGE(support_tickets_cleaned[customer_satisfaction_score])
+
+
+-- =========================
+-- Simple Formatting Tip
+-- =========================
+-- In Power BI, format percentage measures as Percentage:
+-- Profit Margin %
+-- Return Rate %
+-- Delay Rate %
+-- On Time Delivery Rate %

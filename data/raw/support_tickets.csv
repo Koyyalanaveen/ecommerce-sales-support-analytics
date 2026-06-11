@@ -1,0 +1,752 @@
+ticket_id,order_id,customer_id,ticket_date,issue_category,issue_description,priority,ticket_status,resolution_days,customer_satisfaction_score
+TICK00001,ORD00334,CUST0141,2024-09-23,Payment,Payment status is showing pending,Low,Closed,9,1
+TICK00002,ORD02246,CUST0427,2024-09-15,Product,Product quality is not good compared to description,Low,Open,,
+TICK00003,ORD02306,CUST0668,2024-12-13,Payment,Payment failed but amount was deducted,Medium,Closed,6,2
+TICK00004,ORD02127,CUST0235,2024-01-26,Delivery,Order was delivered very late,Low,Closed,4,5
+TICK00005,ORD01922,CUST0617,2024-01-23,Payment,Payment failed but amount was deducted,Low,Open,,
+TICK00006,ORD01361,CUST0401,2024-11-07,Refund,Refund status is not updated,Medium,Open,,
+TICK00007,ORD01530,CUST0267,2024-05-27,Return,Return process is taking too much time,Medium,Closed,4,4
+TICK00008,ORD02019,CUST0763,2024-08-14,Delivery,Delivery partner did not call before marking delivery failed,Low,Escalated,7,
+TICK00009,ORD02428,CUST0580,2024-04-12,Product,Wrong product was delivered,High,Closed,3,2
+TICK00010,ORD02204,CUST0781,2024-03-06,Delivery,Order was delivered very late,Medium,Escalated,3,
+TICK00011,ORD00905,CUST0380,2024-12-17,App/Website,Product page is not loading properly,High,Closed,6,1
+TICK00012,ORD00520,CUST0775,2024-08-06,Product,Product is not working properly,Low,Closed,2,3
+TICK00013,ORD00768,CUST0692,2024-06-27,Payment,Payment failed but amount was deducted,Medium,Closed,7,2
+TICK00014,ORD02436,CUST0664,2024-09-21,Delivery,Order was delivered very late,High,Closed,6,2
+TICK00015,ORD00166,CUST0013,2024-08-05,Payment,Cash on Delivery option is not available,Low,Closed,9,2
+TICK00016,ORD00117,CUST0289,2024-01-18, refund ,Unable to complete payment using UPI,Medium,Closed,3,1
+TICK00017,ORD00245,CUST0286,2024-01-16,Delivery,Order was delivered very late,High,Closed,4,1
+TICK00018,ORD01326,CUST0272,2024-03-06,Delivery,My order is delayed and I have not received any update,Medium,Closed,4,5
+TICK00019,ORD02414,CUST0744,2024-07-13,Payment,Cash on Delivery option is not available,Low,Open,,
+TICK00020,ORD00051,CUST0656,2024-04-20,Product,Product is not working properly,Medium,Closed,3,3
+TICK00021,ORD01310,CUST0502,2024-06-01,Refund,Refund is delayed for more than one week,Medium,Closed,8,5
+TICK00022,ORD01175,CUST0442,2024-01-25,Delivery,My order is delayed and I have not received any update,Low,Open,,
+TICK00023,ORD01437,CUST0213,2024-10-22,Refund,Refund is delayed for more than one week,Low,Closed,4,2
+TICK00024,ORD00465,CUST0087,2024-08-08,Payment,Unable to complete payment using UPI,Medium,Open,,
+TICK00025,ORD01795,CUST0704,2024-11-21,Refund,Refund amount is incorrect,Low,Closed,4,5
+TICK00026,ORD00943,CUST0754,2024-02-09,Return,I am unable to schedule return pickup,High,Closed,2,5
+TICK00027,ORD01556,CUST0613,2024-01-27,Refund,Refund status is not updated,Medium,Closed,1,1
+TICK00028,ORD01320,CUST0464,2024-11-27,App/Website,Unable to login to my account,Medium,Open,,
+TICK00029,ORD02255,CUST0340,2024-12-27,Return,Return request is not getting approved,Low,Escalated,9,
+TICK00030,ORD01493,CUST0405,2024-02-03,Return,Return pickup has not been completed,Low,Escalated,6,
+TICK00031,ORD01165,CUST0317,2024-01-19,Refund,Refund amount is incorrect,High,Closed,9,4
+TICK00032,ORD00133,CUST0748,2024-09-27,Delivery,My order is delayed and I have not received any update,High,Closed,8,1
+TICK00033,ORD01322,CUST0703,2024-06-10,App/Website,Coupon code is not applying,Low,Closed,2,1
+TICK00034,ORD02324,CUST0124,2024-12-01,Refund,Refund is delayed for more than one week,Medium,Open,,
+TICK00035,ORD00276,CUST0210,2024-09-27,Product,Product is not working properly,Low,Closed,7,5
+TICK00036,ORD02342,CUST0655,2024-06-27,Refund,Refund status is not updated,Low,Open,,
+TICK00037,ORD00918,CUST0147,2024-09-25,Delivery,Delivery partner did not call before marking delivery failed,High,Closed,4,3
+TICK00038,ORD01136,CUST0018,2024-07-18,Delivery,Delivery partner did not call before marking delivery failed,High,Open,,
+TICK00039,ORD01241,CUST0440,2024-03-07,Return,I am unable to schedule return pickup,Medium,Open,,
+TICK00040,ORD00758,CUST0161,2024-07-15,App/Website,App is crashing during checkout,Low,Closed,4,2
+TICK00041,ORD01190,CUST0108,2024-05-30,Return,Return request is not getting approved,Low,Escalated,3,
+TICK00042,ORD01675,CUST0728,2024-02-02,Delivery,Order was delivered very late,Low,Open,,
+TICK00043,ORD00515,CUST0306,2024-09-18,Delivery,My order is delayed and I have not received any update,Medium,Closed,8,3
+TICK00044,ORD01923,CUST0357,2024-02-18,Refund,Refund not received even after return pickup,Low,Closed,6,1
+TICK00045,ORD00423,CUST0702,2024-06-14,Payment,Cash on Delivery option is not available,Low,Closed,6,4
+TICK00046,ORD00552,CUST0508,2024-11-03,Product,Wrong product was delivered,Low,Closed,4,3
+TICK00047,ORD00772,CUST0416,2024-10-31,Delivery,Delivery partner did not call before marking delivery failed,Medium,Open,,
+TICK00048,ORD00960,CUST0764,2024-07-13,Refund,Refund is delayed for more than one week,Low,Escalated,3,
+TICK00049,ORD01012,CUST0435,2024-12-25,Payment,Cash on Delivery option is not available,Medium,Closed,2,1
+TICK00050,ORD00227,CUST0215,2024-08-16,Return,Return process is taking too much time,Medium,Open,,
+TICK00051,ORD01665,CUST0601,2024-06-10,Payment,Cash on Delivery option is not available,High,Closed,8,4
+TICK00052,ORD01378,CUST0331,2024-10-25,Refund,Refund not received even after return pickup,Medium,Closed,6,4
+TICK00053,ORD00970,CUST0532,2024-11-01,Return,I am unable to schedule return pickup,Low,Open,,
+TICK00054,ORD00829,CUST0099,2024-12-16,App/Website,Coupon code is not applying,High,Closed,8,3
+TICK00055,ORD01524,CUST0467,2024-06-12,Return,Return pickup has not been completed,Low,Closed,9,5
+TICK00056,ORD00798,CUST0008,2024-03-28,Return,Return pickup has not been completed,Medium,Closed,2,4
+TICK00057,ORD01510,CUST0426,2024-02-20,Refund,Refund amount is incorrect,High,Open,,
+TICK00058,ORD01935,CUST0008,2024-07-25,Product,Wrong product was delivered,Low,Open,,
+TICK00059,ORD01286,CUST0662,2024-08-08,Refund,Refund status is not updated,High,Closed,2,2
+TICK00060,ORD02398,CUST0025,2024-04-04,Delivery,My order is delayed and I have not received any update,Medium,Closed,5,1
+TICK00061,ORD02219,CUST0192,2024-06-20,App/Website,Unable to login to my account,Low,Closed,6,1
+TICK00062,ORD00083,CUST0251,2024-04-09,Return,Return pickup has not been completed,Medium,Open,,
+TICK00063,ORD02337,CUST0720,2024-09-18,Delivery,Order was delivered very late,High,Open,,
+TICK00064,ORD01622,CUST0275,2024-12-21,Return,Return pickup has not been completed,Medium,Closed,4,1
+TICK00065,ORD00641,CUST0547,2024-11-17,Delivery,Delivery partner did not call before marking delivery failed,Low,Open,,
+TICK00066,ORD02064,CUST0785,2024-10-14,Delivery,Delivery partner did not call before marking delivery failed,High,Closed,2,4
+TICK00067,ORD00762,CUST0479,2024-08-13,Delivery,Order was delivered very late,High,Closed,7,3
+TICK00068,ORD00492,CUST0321,2024-08-12,Refund,Refund is delayed for more than one week,Low,Closed,6,3
+TICK00069,ORD01653,CUST0451,2024-08-17,Return,Return request is not getting approved,Low,Closed,8,5
+TICK00070,ORD00001,CUST0168,2024-04-10,Refund,Refund is delayed for more than one week,Low,Closed,4,3
+TICK00071,ORD02152,CUST0264,2024-04-03,Refund,Refund status is not updated,Medium,Closed,2,3
+TICK00072,ORD02008,CUST0751,2024-05-26,Refund,Refund amount is incorrect,Medium,Escalated,3,
+TICK00073,ORD02295,CUST0523,2024-05-31,Payment,Cash on Delivery option is not available,Low,Escalated,1,
+TICK00074,ORD02003,CUST0600,2024-03-30,Refund,Refund amount is incorrect,Medium,Closed,7,5
+TICK00075,ORD01333,CUST0698,2024-01-27,Return,Return process is taking too much time,Low,Closed,6,1
+TICK00076,ORD01928,CUST0051,2024-08-19,Payment,Cash on Delivery option is not available,Low,Escalated,7,
+TICK00077,ORD02066,CUST0123,2024-02-09,Refund,Refund amount is incorrect,Low,Closed,5,4
+TICK00078,ORD02262,CUST0147,2024-07-09,Refund,Refund status is not updated,Medium,Open,,
+TICK00079,ORD00600,CUST0349,2024-12-01,Refund,Refund not received even after return pickup,Medium,Open,,
+TICK00080,ORD01951,CUST0103,2024-01-19,Refund,Refund is delayed for more than one week,Medium,Open,,
+TICK00081,ORD00780,CUST0756,2024-01-16,Return,Return process is taking too much time,Low,Open,,
+TICK00082,ORD01905,CUST0542,2024-02-07,App/Website,Product page is not loading properly,Medium,Closed,2,1
+TICK00083,ORD01741,CUST0589,2024-09-26,Payment,Cash on Delivery option is not available,Medium,Open,,
+TICK00084,ORD01014,CUST0015,2024-11-18,Payment,Cash on Delivery option is not available,Medium,Closed,6,4
+TICK00085,ORD00195,CUST0648,2024-08-14,Delivery,Package tracking is not updating properly,Medium,Closed,4,1
+TICK00086,ORD02409,CUST0684,2024-03-18,Delivery,Order was delivered very late,Medium,Closed,5,3
+TICK00087,ORD01921,CUST0316,2024-04-16,Refund,Refund is delayed for more than one week,Medium,Open,,
+TICK00088,ORD01867,CUST0168,2024-04-12,Refund,Refund status is not updated,Medium,Closed,8,2
+TICK00089,ORD00900,CUST0779,2024-02-29,Payment,Payment status is showing pending,Low,Closed,9,3
+TICK00090,ORD02380,CUST0456,2024-02-19,Refund,Refund not received even after return pickup,Low,Closed,8,3
+TICK00091,ORD02112,CUST0005,2024-05-04,Refund,Refund not received even after return pickup,Medium,Open,,
+TICK00092,ORD01013,CUST0510,2024-10-02,Delivery,Order was delivered very late,Low,Closed,7,5
+TICK00093,ORD01792,CUST0786,2024-08-04,Refund,Refund not received even after return pickup,Low,Closed,3,5
+TICK00094,ORD01577,CUST0238,2024-06-10,Refund,Refund amount is incorrect,Medium,Escalated,1,
+TICK00095,ORD01688,CUST0011,2024-05-01,Return,Return process is taking too much time,Low,Open,,
+TICK00096,ORD00112,CUST0698,2024-06-23,Return,Return request is not getting approved,Low,Closed,1,4
+TICK00097,ORD02332,CUST0065,2024-06-02,App/Website,Product page is not loading properly,Medium,Closed,5,1
+TICK00098,ORD02047,CUST0590,2024-07-19,App/Website,Product page is not loading properly,Low,Closed,5,1
+TICK00099,ORD02333,CUST0491,2024-04-25,Product,Product quality is not good compared to description,Medium,Closed,1,5
+TICK00100,ORD02043,CUST0222,2024-03-24,Return,Return pickup has not been completed,Medium,Open,,
+TICK00101,ORD02062,CUST0463,2024-06-18,Product,Received damaged product and box was opened,Medium,Closed,6,5
+TICK00102,ORD01335,CUST0273,2024-05-05,Payment,Payment failed but amount was deducted,Medium,Closed,4,2
+TICK00103,ORD01373,CUST0278,2024-03-20,Product,Received damaged product and box was opened,Low,Closed,6,1
+TICK00104,ORD00046,CUST0630,2024-10-29,Payment,Cash on Delivery option is not available,Low,Closed,7,1
+TICK00105,ORD02451,CUST0619,2024-10-31,Product,Wrong product was delivered,Medium,Open,,
+TICK00106,ORD01198,CUST0040,2024-10-10,Delivery,Order was delivered very late,Low,Open,,
+TICK00107,ORD01137,CUST0113,2024-02-03,Product,Wrong product was delivered,Low,Closed,4,4
+TICK00108,ORD01491,CUST0016,2024-06-05,Product,Wrong product was delivered,Low,Closed,3,1
+TICK00109,ORD00190,CUST0311,2024-07-25,Product,Product is not working properly,Low,Open,,
+TICK00110,ORD01818,CUST0788,2024-01-23,Refund,Refund amount is incorrect,Low,Closed,2,5
+TICK00111,ORD00576,CUST0043,2024-09-22,Product,Received damaged product and box was opened,Low,Closed,6,5
+TICK00112,ORD01638,CUST0320,2025-01-08,App/Website,App is crashing during checkout,Medium,Open,,
+TICK00113,ORD00644,CUST0325,2024-07-20,Payment,Cash on Delivery option is not available,Low,Closed,9,4
+TICK00114,ORD02405,CUST0544,2024-01-18,Payment,Payment status is showing pending,High,Closed,7,3
+TICK00115,ORD00335,CUST0422,2024-06-27,Return,Return pickup has not been completed,Medium,Closed,3,2
+TICK00116,ORD00071,CUST0788,2024-03-02,Return,Return request is not getting approved,Medium,Open,,
+TICK00117,ORD01809,CUST0032,2024-04-19,Delivery,My order is delayed and I have not received any update,Low,Open,,
+TICK00118,ORD00948,CUST0714,2024-04-20,Product,Product is not working properly,Low,Open,,
+TICK00119,ORD00746,CUST0782,2024-11-15,Refund,Refund amount is incorrect,Low,Closed,1,2
+TICK00120,ORD00605,CUST0587,2024-01-13,Return,Return request is not getting approved,Low,Closed,5,1
+TICK00121,ORD01658,CUST0649,2024-05-25,Product,Received damaged product and box was opened,Medium,Open,,
+TICK00122,ORD01457,CUST0623,2024-07-14,Product,Product is not working properly,Medium,Closed,9,3
+TICK00123,ORD00606,CUST0764,2024-11-06,Delivery,My order is delayed and I have not received any update,Medium,Closed,5,2
+TICK00124,ORD01838,CUST0514,2024-06-17,Product,Product is not working properly,Low,Closed,6,5
+TICK00125,ORD02117,CUST0424,2024-07-16,Payment,Payment status is showing pending,Medium,Open,,
+TICK00126,ORD00649,CUST0060,2024-06-08,Delivery,Order was delivered very late,Medium,Closed,3,2
+TICK00127,ORD01416,CUST0672,2024-03-19,App/Website,App is crashing during checkout,Medium,Closed,4,4
+TICK00128,ORD01187,CUST0424,2024-09-18,Refund,Refund status is not updated,Medium,Open,,
+TICK00129,ORD01581,CUST0254,2024-12-10,Payment,Payment failed but amount was deducted,Low,Closed,9,2
+TICK00130,ORD00974,CUST0166,2024-02-22,Product,Received damaged product and box was opened,Medium,Escalated,8,
+TICK00131,ORD00065,CUST0424,2024-02-16,Payment,Unable to complete payment using UPI,Low,Closed,8,1
+TICK00132,ORD01363,CUST0126,2024-08-14,Payment,Unable to complete payment using UPI,Low,Closed,6,3
+TICK00133,ORD01247,CUST0644,2024-11-07,Delivery,Package tracking is not updating properly,High,Closed,1,1
+TICK00134,ORD00322,CUST0764,2024-07-10,Product,Received damaged product and box was opened,Low,Escalated,9,
+TICK00135,ORD01439,CUST0450,2024-08-11,Product,Product quality is not good compared to description,Medium,Open,,
+TICK00136,ORD01743,CUST0790,2024-01-29,Payment,Unable to complete payment using UPI,Medium,Closed,4,5
+TICK00137,ORD02048,CUST0373,2024-05-27,Delivery,Order was delivered very late,High,Closed,9,3
+TICK00138,ORD00496,CUST0479,2024-08-21,Return,I am unable to schedule return pickup,High,Closed,6,5
+TICK00139,ORD00278,CUST0356,2024-08-09,App/Website,Unable to login to my account,Low,Open,,
+TICK00140,ORD01880,CUST0577,2024-08-02,Return,Return pickup has not been completed,Low,Closed,4,2
+TICK00141,ORD01811,CUST0182,2024-09-06,Return,I am unable to schedule return pickup,Low,Closed,8,1
+TICK00142,ORD01309,CUST0541,2024-05-16,Product,Product quality is not good compared to description,High,Open,,
+TICK00143,ORD00833,CUST0109,2024-07-08,App/Website,Unable to login to my account,Medium,Escalated,6,
+TICK00144,ORD02258,CUST0524,2024-02-22,App/Website,Coupon code is not applying,Low,Open,,
+TICK00145,ORD01812,CUST0340,2024-03-24,App/Website,Product page is not loading properly,Medium,Closed,1,2
+TICK00146,ORD00675,CUST0032,2024-12-19,Return,Return request is not getting approved,Low,Closed,4,4
+TICK00147,ORD01139,CUST0216,2024-05-01,Delivery,My order is delayed and I have not received any update,Low,Closed,3,1
+TICK00148,ORD01294,CUST0017,2024-02-11,Refund,Refund is delayed for more than one week,Medium,Open,,
+TICK00149,ORD02268,CUST0517,2024-05-31,Delivery,Package tracking is not updating properly,Low,Closed,5,2
+TICK00150,ORD00371,CUST0206,2024-11-09,Return,Return process is taking too much time,Low,Closed,3,3
+TICK00151,ORD02266,CUST0193,2024-11-14,Delivery,My order is delayed and I have not received any update,Low,Closed,3,5
+TICK00152,ORD01886,CUST0633,2024-09-26,Refund,Refund not received even after return pickup,High,Closed,8,5
+TICK00153,ORD00141,CUST0578,2024-05-14,Product,Wrong product was delivered,Medium,Escalated,1,
+TICK00154,ORD02073,CUST0725,2024-08-17,Return,Return request is not getting approved,Medium,Escalated,1,
+TICK00155,ORD02052,CUST0322,2024-03-06,Refund,Refund status is not updated,High,Closed,9,1
+TICK00156,ORD01246,CUST0096,2024-03-02,Payment,Unable to complete payment using UPI,Medium,Escalated,5,
+TICK00157,ORD00030,CUST0603,2024-12-10,Refund,Refund status is not updated,Low,Closed,9,1
+TICK00158,ORD02027,CUST0092,2024-06-24,Refund,Refund amount is incorrect,High,Open,,
+TICK00159,ORD01349,CUST0516,2024-03-27,Refund,Refund amount is incorrect,High,Closed,2,3
+TICK00160,ORD01292,CUST0292,2024-03-16,Return,Return pickup has not been completed,Medium,Closed,3,1
+TICK00161,ORD00822,CUST0222,2024-01-25,App/Website,App is crashing during checkout,Medium,Closed,4,1
+TICK00162,ORD02256,CUST0648,2024-10-24,Delivery,My order is delayed and I have not received any update,High,Closed,2,3
+TICK00163,ORD00010,CUST0397,2024-10-03,Refund,Refund status is not updated,Medium,Open,,
+TICK00164,ORD01494,CUST0276,2024-12-13,Delivery,Package tracking is not updating properly,Low,Closed,5,4
+TICK00165,ORD00802,CUST0718,2025-01-08,Refund,Refund not received even after return pickup,Low,Escalated,1,
+TICK00166,ORD01606,CUST0621,2024-06-09,Refund,Refund amount is incorrect,Low,Closed,5,3
+TICK00167,ORD01388,CUST0557,2024-10-24,Payment,Cash on Delivery option is not available,Low,Closed,5,5
+TICK00168,ORD01955,CUST0264,2024-03-09,Refund,Refund is delayed for more than one week,Low,Open,,
+TICK00169,ORD00582,CUST0294,2024-09-22,Refund,Refund not received even after return pickup,Low,Closed,7,1
+TICK00170,ORD02408,CUST0102,2024-04-07,Product,Product quality is not good compared to description,Low,Closed,6,1
+TICK00171,ORD02137,CUST0739,2024-08-14,Payment,Payment status is showing pending,Low,Closed,7,3
+TICK00172,ORD00889,CUST0316,2024-01-15,App/Website,Unable to login to my account,Low,Closed,2,3
+TICK00173,ORD01520,CUST0751,2024-03-04,Payment,Payment failed but amount was deducted,Low,Open,,
+TICK00174,ORD00137,CUST0055,2024-07-08,Return,Return pickup has not been completed,Medium,Closed,8,3
+TICK00175,ORD01858,CUST0583,2024-01-12,App/Website,Coupon code is not applying,Medium,Closed,8,4
+TICK00176,ORD00099,CUST0473,2024-08-04,Delivery,Delivery partner did not call before marking delivery failed,Low,Escalated,4,
+TICK00177,ORD01431,CUST0503,2024-08-16,App/Website,Coupon code is not applying,Low,Closed,8,1
+TICK00178,ORD00337,CUST0629,2024-12-24,Refund,Refund amount is incorrect,High,Open,,
+TICK00179,ORD00778,CUST0450,2024-08-23,Refund,Refund is delayed for more than one week,Low,Closed,6,5
+TICK00180,ORD00187,CUST0746,2024-02-16,Refund,Refund is delayed for more than one week,Low,Escalated,9,
+TICK00181,ORD02459,CUST0688,2024-06-15,Product,Product quality is not good compared to description,High,Open,,
+TICK00182,ORD01702,CUST0144,2024-09-10,Product,Wrong product was delivered,Low,Open,,
+TICK00183,ORD01837,CUST0634,2024-04-09,Return,Return pickup has not been completed,Medium,Closed,8,3
+TICK00184,ORD00745,CUST0614,2024-08-21,App/Website,Unable to login to my account,Low,Closed,9,5
+TICK00185,ORD00266,CUST0771,2024-10-25,Delivery,Package tracking is not updating properly,Medium,Closed,6,5
+TICK00186,ORD00527,CUST0536,2024-08-10,Return,I am unable to schedule return pickup,High,Closed,3,3
+TICK00187,ORD02191,CUST0025,2024-09-08,Payment,Cash on Delivery option is not available,Medium,Closed,4,4
+TICK00188,ORD00438,CUST0338,2024-11-06,App/Website,Product page is not loading properly,Medium,Closed,5,5
+TICK00189,ORD01301,CUST0742,2024-08-19,Product,Wrong product was delivered,Medium,Closed,5,2
+TICK00190,ORD01590,CUST0459,2024-08-07,Delivery,Delivery partner did not call before marking delivery failed,Low,Closed,2,4
+TICK00191,ORD02243,CUST0446,2024-04-01,Payment,Cash on Delivery option is not available,Low,Closed,8,4
+TICK00192,ORD00993,CUST0338,2024-11-30,App/Website,App is crashing during checkout,Medium,Closed,2,5
+TICK00193,ORD02265,CUST0328,2024-09-09,Payment,Unable to complete payment using UPI,High,Open,,
+TICK00194,ORD01843,CUST0202,2024-07-07,Product,Product is not working properly,Medium,Closed,4,1
+TICK00195,ORD00116,CUST0721,2024-10-27,Return,Return process is taking too much time,Medium,Closed,1,5
+TICK00196,ORD00751,CUST0398,2024-12-09,Return,Return process is taking too much time,High,Closed,2,1
+TICK00197,ORD01981,CUST0544,2024-10-02,App/Website,Product page is not loading properly,Medium,Open,,
+TICK00198,ORD02133,CUST0350,2024-05-09,Return,I am unable to schedule return pickup,Medium,Closed,8,4
+TICK00199,ORD01367,CUST0499,2024-06-01,Delivery,Delivery partner did not call before marking delivery failed,Low,Closed,8,1
+TICK00200,ORD00920,CUST0457,2024-03-12,Refund,Refund amount is incorrect,Low,Open,,
+TICK00201,ORD02307,CUST0190,2024-03-03,Refund,Refund amount is incorrect,Medium,Open,,
+TICK00202,ORD02281,CUST0290,2024-06-27,Return,Return process is taking too much time,Low,Closed,4,4
+TICK00203,ORD00638,CUST0535,2024-04-18,Refund,Refund status is not updated,Medium,Closed,6,4
+TICK00204,ORD00458,CUST0657,2024-04-11,App/Website,App is crashing during checkout,Low,Closed,5,2
+TICK00205,ORD01183,CUST0144,2024-03-10,App/Website,App is crashing during checkout,Low,Closed,6,2
+TICK00206,ORD00699,CUST0202,2024-04-02,App/Website,Coupon code is not applying,Low,Escalated,8,
+TICK00207,ORD01271,CUST0106,2024-11-05,Payment,Unable to complete payment using UPI,Medium,Closed,8,4
+TICK00208,ORD00346,CUST0034,2024-12-12,App/Website,Unable to login to my account,High,Closed,9,5
+TICK00209,ORD00913,CUST0330,2024-01-21,Product,Product quality is not good compared to description,High,Escalated,7,
+TICK00210,ORD01938,CUST0087,2024-12-06,Product,Received damaged product and box was opened,High,Closed,9,1
+TICK00211,ORD00424,CUST0327,2024-02-09,Return,Return process is taking too much time,Medium,Closed,9,2
+TICK00212,ORD01964,CUST0050,2024-04-23,Product,Product is not working properly,Low,Open,,
+TICK00213,ORD00989,CUST0674,2024-12-11,Payment,Unable to complete payment using UPI,Low,Open,,
+TICK00214,ORD00011,CUST0299,2024-08-21,Product,Received damaged product and box was opened,Medium,Closed,9,3
+TICK00215,ORD01746,CUST0374,2024-03-06,Refund,Refund not received even after return pickup,Low,Escalated,2,
+TICK00216,ORD00788,CUST0567,2024-04-04,Return,I am unable to schedule return pickup,High,Closed,6,1
+TICK00217,ORD00145,CUST0136,2024-11-17,Product,Product quality is not good compared to description,Medium,Closed,2,4
+TICK00218,ORD02168,CUST0412,2024-10-28,Refund,Refund is delayed for more than one week,Medium,Closed,8,5
+TICK00219,ORD02446,CUST0072,2024-05-23,Product,Product quality is not good compared to description,Medium,Open,,
+TICK00220,ORD02174,CUST0315,2024-02-07,Product,Received damaged product and box was opened,Medium,Closed,1,2
+TICK00221,ORD00884,CUST0724,2024-11-01,Return,Return request is not getting approved,Low,Closed,7,5
+TICK00222,ORD02327,CUST0024,2025-01-04,Refund,Refund amount is incorrect,Low,Closed,2,4
+TICK00223,ORD01672,CUST0379,2024-01-25,Payment,Unable to complete payment using UPI,Low,Closed,3,5
+TICK00224,ORD01069,CUST0722,2024-08-21,Return,Return pickup has not been completed,Low,Open,,
+TICK00225,ORD02056,CUST0176,2024-01-15,Payment,Unable to complete payment using UPI,Medium,Escalated,2,
+TICK00226,ORD00837,CUST0069,2024-04-27,Return,Return pickup has not been completed,Medium,Open,,
+TICK00227,ORD01742,CUST0498,2024-12-03,App/Website,Coupon code is not applying,Low,Open,,
+TICK00228,ORD02114,CUST0160,2024-03-27,Payment,Cash on Delivery option is not available,High,Escalated,6,
+TICK00229,ORD00507,CUST0644,2024-05-28,Return,Return process is taking too much time,Low,Closed,3,2
+TICK00230,ORD01735,CUST0185,2024-08-14,Product,Received damaged product and box was opened,Medium,Closed,6,3
+TICK00231,ORD01815,CUST0073,2024-08-10,Payment,Cash on Delivery option is not available,Low,Open,,
+TICK00232,ORD00664,CUST0523,2024-05-29,Product,Received damaged product and box was opened,Medium,Closed,6,1
+TICK00233,ORD00815,CUST0140,2024-06-30,Delivery,Order was delivered very late,High,Open,,
+TICK00234,ORD02195,CUST0565,2024-01-30,Return,Return request is not getting approved,Low,Closed,8,5
+TICK00235,ORD01617,CUST0256,2024-02-19,Delivery,Package tracking is not updating properly,Low,Open,,
+TICK00236,ORD01744,CUST0760,2024-11-24,Refund,Refund amount is incorrect,Low,Closed,3,3
+TICK00237,ORD01377,CUST0319,2024-04-11,App/Website,Product page is not loading properly,Medium,Open,,
+TICK00238,ORD01695,CUST0364,2024-10-30,Product,Received damaged product and box was opened,High,Closed,8,5
+TICK00239,ORD00189,CUST0581,2024-10-10,App/Website,App is crashing during checkout,High,Closed,5,5
+TICK00240,ORD01635,CUST0474,2024-05-01,Product,Product is not working properly,Medium,Closed,3,5
+TICK00241,ORD01945,CUST0685,2024-04-07,Return,Return process is taking too much time,Medium,Closed,2,1
+TICK00242,ORD01970,CUST0787,2024-09-28,Delivery,Order was delivered very late,Low,Closed,3,5
+TICK00243,ORD01522,CUST0276,2024-04-22,Payment,Unable to complete payment using UPI,Low,Open,,
+TICK00244,ORD01434,CUST0035,2024-03-24,Delivery,My order is delayed and I have not received any update,Low,Open,,
+TICK00245,ORD01458,CUST0494,2024-01-28,Product,Product quality is not good compared to description,Low,Closed,1,4
+TICK00246,ORD01839,CUST0497,2024-11-29,Payment,Payment status is showing pending,Low,Closed,5,2
+TICK00247,ORD00998,CUST0586,2024-05-25,Return,Return process is taking too much time,High,Open,,
+TICK00248,ORD01340,CUST0004,2024-02-27,Return,Return process is taking too much time,High,Closed,7,2
+TICK00249,ORD01191,CUST0409,2024-02-08,Refund,Refund is delayed for more than one week,Low,Open,,
+TICK00250,ORD00412,CUST0345,2024-05-30,Delivery,Package tracking is not updating properly,Low,Closed,6,5
+TICK00251,ORD00013,CUST0056,2024-12-26,Refund,Refund not received even after return pickup,Low,Open,,
+TICK00252,ORD01305,CUST0705,2024-11-17,Product,Product quality is not good compared to description,Low,Open,,
+TICK00253,ORD02360,CUST0111,2024-09-22,App/Website,Unable to login to my account,Medium,Closed,2,4
+TICK00254,ORD01972,CUST0468,2024-12-06,Return,Return request is not getting approved,Medium,Escalated,1,
+TICK00255,ORD00536,CUST0192,2024-04-30,Delivery,Delivery partner did not call before marking delivery failed,High,Escalated,8,
+TICK00256,ORD01450,CUST0752,2024-06-21,Return,Return pickup has not been completed,Low,Closed,1,1
+TICK00257,ORD00049,CUST0121,2024-04-27,Delivery,Delivery partner did not call before marking delivery failed,High,Closed,3,4
+TICK00258,ORD01203,CUST0651,2024-04-14,Delivery,Package tracking is not updating properly,Medium,Closed,3,2
+TICK00259,ORD00161,CUST0277,2024-05-17,Delivery,Order was delivered very late,Low,Open,,
+TICK00260,ORD00733,CUST0011,2024-02-12,Refund,Refund is delayed for more than one week,Medium,Closed,7,1
+TICK00261,ORD01345,CUST0175,2024-12-19,App/Website,Coupon code is not applying,High,Escalated,5,
+TICK00262,ORD02184,CUST0504,2024-12-18,Refund,Refund not received even after return pickup,Medium,Closed,8,1
+TICK00263,ORD02057,CUST0666,2024-02-11,Payment,Unable to complete payment using UPI,High,Escalated,1,
+TICK00264,ORD00265,CUST0553,2024-02-29,Refund,Refund not received even after return pickup,Low,Closed,4,1
+TICK00265,ORD00106,CUST0100,2024-08-21,Payment,Payment failed but amount was deducted,Medium,Escalated,7,
+TICK00266,ORD02215,CUST0295,2024-12-20,Product,Product is not working properly,Low,Closed,5,4
+TICK00267,ORD01312,CUST0085,2024-07-06,Payment,Unable to complete payment using UPI,Low,Closed,5,5
+TICK00268,ORD02426,CUST0645,2024-05-20,Return,Return request is not getting approved,Low,Closed,5,2
+TICK00269,ORD02166,CUST0025,2024-12-28,Refund,Refund amount is incorrect,High,Closed,7,5
+TICK00270,ORD01834,CUST0653,2024-05-08,App/Website,Unable to login to my account,Medium,Closed,2,4
+TICK00271,ORD00620,CUST0419,2024-02-28,Refund,Refund status is not updated,Medium,Open,,
+TICK00272,ORD00866,CUST0086,2024-06-15,Delivery,My order is delayed and I have not received any update,Low,Closed,2,4
+TICK00273,ORD01404,CUST0632,2024-03-13,Refund,Refund status is not updated,Low,Open,,
+TICK00274,ORD01985,CUST0625,2024-08-18,App/Website,Coupon code is not applying,High,Closed,8,1
+TICK00275,ORD02435,CUST0613,2024-11-28,Return,Return process is taking too much time,Medium,Closed,6,1
+TICK00276,ORD01196,CUST0067,2024-06-23,Refund,Refund is delayed for more than one week,Low,Escalated,5,
+TICK00277,ORD01474,CUST0081,2024-04-19,Payment,Payment failed but amount was deducted,Medium,Closed,8,1
+TICK00278,ORD01936,CUST0103,2024-07-06,App/Website,App is crashing during checkout,Medium,Open,,
+TICK00279,ORD00611,CUST0084,2024-02-25,Product,Wrong product was delivered,Medium,Closed,3,4
+TICK00280,ORD00191,CUST0548,2024-07-01,Payment,Payment failed but amount was deducted,Low,Open,,
+TICK00281,ORD02157,CUST0398,2024-09-06,Return,Return pickup has not been completed,Medium,Closed,5,2
+TICK00282,ORD00088,CUST0365,2024-06-15,Return,Return pickup has not been completed,Medium,Open,,
+TICK00283,ORD00627,CUST0428,2024-09-10,Delivery,Order was delivered very late,Medium,Escalated,4,
+TICK00284,ORD01181,CUST0092,2024-02-16,Refund,Refund status is not updated,Medium,Closed,4,5
+TICK00285,ORD00468,CUST0474,2024-04-18,Return,Return pickup has not been completed,Medium,Closed,6,3
+TICK00286,ORD00068,CUST0095,2024-08-28,Return,I am unable to schedule return pickup,Low,Open,,
+TICK00287,ORD01173,CUST0529,2024-11-08,Return,Return pickup has not been completed,Low,Closed,8,3
+TICK00288,ORD00351,CUST0765,2024-06-03,App/Website,Product page is not loading properly,Medium,Open,,
+TICK00289,ORD01515,CUST0624,2024-04-27,Return,I am unable to schedule return pickup,Low,Closed,6,3
+TICK00290,ORD00243,CUST0567,2024-04-29,Return,Return pickup has not been completed,Medium,Closed,8,4
+TICK00291,ORD01913,CUST0187,2024-12-04,Return,Return request is not getting approved,Medium,Closed,3,2
+TICK00292,ORD02462,CUST0394,2024-11-20,Refund,Refund is delayed for more than one week,High,Closed,1,5
+TICK00293,ORD01003,CUST0388,2024-10-23,Delivery,Order was delivered very late,Low,Escalated,6,
+TICK00294,ORD00479,CUST0011,2024-09-01,Payment,Unable to complete payment using UPI,Low,Escalated,8,
+TICK00295,ORD01664,CUST0453,2024-07-04,App/Website,App is crashing during checkout,High,Closed,2,2
+TICK00296,ORD01553,CUST0450,2024-05-04,Refund,Refund status is not updated,Medium,Closed,5,4
+TICK00297,ORD00057,CUST0140,2024-09-15,Payment,Payment failed but amount was deducted,Medium,Escalated,9,
+TICK00298,ORD02143,CUST0701,2024-05-02,Delivery,Order was delivered very late,Medium,Open,,
+TICK00299,ORD00487,CUST0516,2024-09-10,Product,Product quality is not good compared to description,Medium,Closed,1,5
+TICK00300,ORD01754,CUST0274,2024-04-07,Product,Received damaged product and box was opened,Medium,Closed,2,4
+TICK00301,ORD00470,CUST0092,2024-07-08,App/Website,App is crashing during checkout,Medium,Closed,4,4
+TICK00302,ORD00353,CUST0584,2024-02-10,Product,Product quality is not good compared to description,High,Closed,2,3
+TICK00303,ORD01407,CUST0492,2024-06-05,Return,Return request is not getting approved,High,Closed,7,4
+TICK00304,ORD01503,CUST0671,2024-01-27,Payment,Cash on Delivery option is not available,High,Escalated,9,
+TICK00305,ORD01567,CUST0723,2024-09-27,App/Website,Unable to login to my account,Low,Escalated,3,
+TICK00306,ORD01789,CUST0385,2024-10-16,Product,Received damaged product and box was opened,Low,Closed,3,1
+TICK00307,ORD00366,CUST0696,2024-07-13,Product,Product is not working properly,High,Closed,9,1
+TICK00308,ORD00947,CUST0074,2024-10-02,Payment,Cash on Delivery option is not available,Low,Closed,8,2
+TICK00309,ORD01166,CUST0513,2024-04-23,Delivery,My order is delayed and I have not received any update,Medium,Escalated,5,
+TICK00310,ORD00069,CUST0513,2024-03-20,Delivery,Package tracking is not updating properly,Medium,Closed,6,5
+TICK00311,ORD01129,CUST0362,2024-06-17,Payment,Payment status is showing pending,High,Escalated,4,
+TICK00312,ORD01805,CUST0094,2024-07-21,Delivery,Order was delivered very late,Low,Closed,4,3
+TICK00313,ORD01460,CUST0142,2024-03-12,Delivery,Order was delivered very late,Medium,Closed,8,1
+TICK00314,ORD00185,CUST0338,2024-07-29,Refund,Refund not received even after return pickup,High,Closed,8,3
+TICK00315,ORD00173,CUST0677,2024-02-13,Refund,Refund is delayed for more than one week,Medium,Closed,1,3
+TICK00316,ORD00170,CUST0654,2024-03-08,Delivery,My order is delayed and I have not received any update,Medium,Open,,
+TICK00317,ORD01278,CUST0031,2024-03-13,Product,Product quality is not good compared to description,Medium,Closed,2,2
+TICK00318,ORD01376,CUST0409,2024-03-04,App/Website,App is crashing during checkout,Low,Escalated,1,
+TICK00319,ORD01233,CUST0661,2025-01-04,Payment,Unable to complete payment using UPI,High,Closed,8,3
+TICK00320,ORD00139,CUST0362,2024-06-03,Return,Return process is taking too much time,High,Closed,1,5
+TICK00321,ORD00565,CUST0495,2024-03-15,Product,Wrong product was delivered,Low,Closed,9,2
+TICK00322,ORD00533,CUST0403,2024-02-01,Delivery,Package tracking is not updating properly,Low,Closed,3,1
+TICK00323,ORD01957,CUST0585,2024-04-13,App/Website,App is crashing during checkout,High,Closed,6,3
+TICK00324,ORD00095,CUST0116,2024-07-02,Delivery,Order was delivered very late,Low,Closed,2,1
+TICK00325,ORD02206,CUST0078,2024-01-14,Payment,Unable to complete payment using UPI,Medium,Closed,6,1
+TICK00326,ORD00153,CUST0592,2024-06-29,Delivery,Package tracking is not updating properly,High,Closed,2,5
+TICK00327,ORD01575,CUST0390,2024-11-28,Delivery,Delivery partner did not call before marking delivery failed,Low,Closed,5,1
+TICK00328,ORD02294,CUST0775,2024-12-02,Delivery,Package tracking is not updating properly,High,Open,,
+TICK00329,ORD01261,CUST0183,2024-12-04,App/Website,Unable to login to my account,High,Closed,6,1
+TICK00330,ORD00992,CUST0128,2024-10-09,Return,I am unable to schedule return pickup,Medium,Closed,4,2
+TICK00331,ORD02495,CUST0728,2024-03-09,Return,Return process is taking too much time,Medium,Closed,7,5
+TICK00332,ORD01791,CUST0114,2024-10-23,Return,Return request is not getting approved,Medium,Closed,4,1
+TICK00333,ORD01427,CUST0768,2024-02-13,App/Website,App is crashing during checkout,Low,Open,,
+TICK00334,ORD02074,CUST0189,2024-05-14,Return,Return pickup has not been completed,Low,Open,,
+TICK00335,ORD00167,CUST0457,2024-06-30,Return,I am unable to schedule return pickup,Low,Closed,2,2
+TICK00336,ORD00923,CUST0785,2024-06-02,Product,Product quality is not good compared to description,Medium,Closed,3,3
+TICK00337,ORD01613,CUST0230,2024-10-26,Payment,Cash on Delivery option is not available,High,Closed,5,2
+TICK00338,ORD00865,CUST0494,2024-01-15,Refund,Refund amount is incorrect,High,Closed,4,1
+TICK00339,ORD00892,CUST0181,2024-07-16,App/Website,Product page is not loading properly,Medium,Closed,5,3
+TICK00340,ORD02432,CUST0703,2024-07-17,Payment,Unable to complete payment using UPI,Low,Open,,
+TICK00341,ORD01200,CUST0793,2024-07-18,Delivery,My order is delayed and I have not received any update,Low,Open,,
+TICK00342,ORD01996,CUST0455,2024-03-21,Payment,Payment status is showing pending,Medium,Closed,7,2
+TICK00343,ORD00574,CUST0052,2024-08-25,App/Website,Unable to login to my account,Low,Open,,
+TICK00344,ORD02355,CUST0750,2024-07-23,Product,Received damaged product and box was opened,Medium,Open,,
+TICK00345,ORD02368,CUST0635,2024-11-06,App/Website,Product page is not loading properly,Medium,Closed,2,5
+TICK00346,ORD01487,CUST0754,2024-02-12,Delivery,Delivery partner did not call before marking delivery failed,Low,Open,,
+TICK00347,ORD02233,CUST0477,2024-08-25,Return,Return process is taking too much time,Low,Open,,
+TICK00348,ORD02089,CUST0675,2024-10-20,Product,Product is not working properly,Medium,Escalated,7,
+TICK00349,ORD00399,CUST0087,2024-12-23,Payment,Payment failed but amount was deducted,Medium,Closed,3,4
+TICK00350,ORD02227,CUST0763,2024-12-14,App/Website,Product page is not loading properly,Medium,Closed,9,5
+TICK00351,ORD00158,CUST0296,2024-08-21,Return,Return request is not getting approved,Low,Open,,
+TICK00352,ORD02147,CUST0661,2024-07-20,Return,Return request is not getting approved,Medium,Closed,9,2
+TICK00353,ORD02490,CUST0009,2024-06-29,Product,Received damaged product and box was opened,Low,Closed,2,5
+TICK00354,ORD00966,CUST0496,2024-12-04,Refund,Refund not received even after return pickup,Medium,Closed,8,3
+TICK00355,ORD01432,CUST0207,2024-04-04,Payment,Payment failed but amount was deducted,High,Open,,
+TICK00356,ORD02237,CUST0375,2024-01-17,Payment,Cash on Delivery option is not available,Medium,Closed,7,2
+TICK00357,ORD01216,CUST0129,2024-11-29,Return,I am unable to schedule return pickup,High,Closed,9,1
+TICK00358,ORD00754,CUST0507,2024-09-09,Payment,Cash on Delivery option is not available,Low,Open,,
+TICK00359,ORD01068,CUST0601,2024-12-12,Payment,Payment status is showing pending,High,Open,,
+TICK00360,ORD01115,CUST0002,2024-05-04,Return,Return request is not getting approved,Low,Closed,3,3
+TICK00361,ORD01667,CUST0663,2024-05-31,Payment,Payment failed but amount was deducted,Low,Closed,1,4
+TICK00362,ORD01645,CUST0607,2024-03-27,App/Website,Unable to login to my account,Medium,Open,,
+TICK00363,ORD01015,CUST0436,2025-01-05,Delivery,Delivery partner did not call before marking delivery failed,Medium,Closed,8,1
+TICK00364,ORD02284,CUST0241,2024-02-18,Delivery,My order is delayed and I have not received any update,Medium,Closed,5,5
+TICK00365,ORD02232,CUST0602,2024-04-06,Payment,Cash on Delivery option is not available,High,Closed,5,3
+TICK00366,ORD00143,CUST0640,2024-01-24,Payment,Payment status is showing pending,Low,Closed,5,5
+TICK00367,ORD01065,CUST0371,2024-11-02,Product,Product is not working properly,Low,Closed,9,4
+TICK00368,ORD01463,CUST0011,2024-05-07,App/Website,App is crashing during checkout,Low,Open,,
+TICK00369,ORD00868,CUST0314,2024-08-22,Product,Product is not working properly,Medium,Closed,1,4
+TICK00370,ORD00075,CUST0479,2024-02-05,App/Website,Product page is not loading properly,Low,Open,,
+TICK00371,ORD01120,CUST0370,2024-02-24,App/Website,App is crashing during checkout,Low,Closed,9,4
+TICK00372,ORD01709,CUST0409,2024-09-03,App/Website,Unable to login to my account,Low,Open,,
+TICK00373,ORD02031,CUST0498,2024-07-12,App/Website,Product page is not loading properly,Low,Open,,
+TICK00374,ORD00679,CUST0761,2024-01-25,App/Website,Unable to login to my account,Medium,Closed,5,1
+TICK00375,ORD01296,CUST0410,2024-02-18,Refund,Refund is delayed for more than one week,Medium,Closed,4,4
+TICK00376,ORD00428,CUST0318,2024-08-27,App/Website,App is crashing during checkout,Low,Open,,
+TICK00377,ORD01236,CUST0248,2024-01-14,Return,I am unable to schedule return pickup,Low,Escalated,5,
+TICK00378,ORD00042,CUST0215,2024-11-19,Payment,Payment failed but amount was deducted,Low,Closed,4,2
+TICK00379,ORD01543,CUST0138,2024-04-12,Return,Return pickup has not been completed,Low,Open,,
+TICK00380,ORD00449,CUST0398,2024-01-16,Refund,Refund not received even after return pickup,High,Closed,7,2
+TICK00381,ORD01793,CUST0770,2024-04-26,Payment,Unable to complete payment using UPI,Medium,Escalated,8,
+TICK00382,ORD00209,CUST0219,2024-01-31,App/Website,App is crashing during checkout,Low,Open,,
+TICK00383,ORD02238,CUST0608,2024-04-12,Refund,Refund not received even after return pickup,Low,Closed,7,2
+TICK00384,ORD01835,CUST0311,2024-03-26,Payment,Unable to complete payment using UPI,Medium,Closed,6,4
+TICK00385,ORD00864,CUST0483,2024-08-16,App/Website,Unable to login to my account,Low,Closed,5,2
+TICK00386,ORD00302,CUST0201,2024-01-21,Refund,Refund is delayed for more than one week,Medium,Closed,3,5
+TICK00387,ORD02040,CUST0042,2024-05-15,Payment,Cash on Delivery option is not available,Low,Closed,3,4
+TICK00388,ORD02491,CUST0526,2024-01-16,Payment,Unable to complete payment using UPI,Low,Closed,2,3
+TICK00389,ORD02053,CUST0357,2024-12-29,Delivery,Order was delivered very late,Medium,Closed,4,5
+TICK00390,ORD00474,CUST0134,2024-08-17,App/Website,Coupon code is not applying,Medium,Escalated,3,
+TICK00391,ORD01631,CUST0693,2024-05-29,Payment,Unable to complete payment using UPI,Medium,Closed,3,2
+TICK00392,ORD02450,CUST0441,2024-05-08,App/Website,Product page is not loading properly,Low,Closed,7,2
+TICK00393,ORD00421,CUST0745,2024-11-18,Return,Return process is taking too much time,Low,Closed,6,4
+TICK00394,ORD02292,CUST0044,2024-05-01,App/Website,Product page is not loading properly,Low,Escalated,4,
+TICK00395,ORD00073,CUST0535,2024-03-02,App/Website,Coupon code is not applying,Medium,Closed,3,4
+TICK00396,ORD00942,CUST0157,2024-04-21,Return,I am unable to schedule return pickup,Medium,Open,,
+TICK00397,ORD01205,CUST0463,2024-08-03,Delivery,Order was delivered very late,Medium,Open,,
+TICK00398,ORD02474,CUST0457,2024-08-19,Return,I am unable to schedule return pickup,Low,Closed,1,5
+TICK00399,ORD00445,CUST0022,2024-12-01,Delivery,My order is delayed and I have not received any update,Medium,Open,,
+TICK00400,ORD00740,CUST0141,2024-07-14,Delivery,Package tracking is not updating properly,Medium,Closed,6,5
+TICK00401,ORD00393,CUST0693,2024-07-05,Refund,Refund not received even after return pickup,High,Escalated,4,
+TICK00402,ORD01495,CUST0315,2024-10-20,Delivery,Delivery partner did not call before marking delivery failed,Medium,Closed,5,4
+TICK00403,ORD00224,CUST0055,2024-04-21,App/Website,Unable to login to my account,High,Closed,3,1
+TICK00404,ORD00415,CUST0680,2024-10-17,Product,Product is not working properly,Medium,Closed,9,5
+TICK00405,ORD01561,CUST0270,2024-02-28,App/Website,App is crashing during checkout,Low,Closed,4,2
+TICK00406,ORD01034,CUST0144,2024-07-07,Return,Return pickup has not been completed,Low,Closed,7,5
+TICK00407,ORD01334,CUST0225,2024-03-11,Delivery,My order is delayed and I have not received any update,Low,Closed,7,1
+TICK00408,ORD01070,CUST0634,2024-06-26,Return,Return request is not getting approved,Low,Escalated,1,
+TICK00409,ORD02320,CUST0221,2024-11-27,Refund,Refund status is not updated,High,Closed,3,2
+TICK00410,ORD01578,CUST0646,2024-08-01,Return,Return process is taking too much time,Low,Closed,5,4
+TICK00411,ORD00629,CUST0738,2024-11-13,Product,Wrong product was delivered,Medium,Escalated,1,
+TICK00412,ORD02212,CUST0239,2024-04-22,Product,Product quality is not good compared to description,Medium,Closed,5,1
+TICK00413,ORD01799,CUST0343,2024-08-26,Return,I am unable to schedule return pickup,Low,Closed,6,2
+TICK00414,ORD00949,CUST0135,2024-06-20,Refund,Refund amount is incorrect,Medium,Escalated,8,
+TICK00415,ORD02297,CUST0205,2024-11-09,Payment,Unable to complete payment using UPI,Low,Closed,2,3
+TICK00416,ORD00635,CUST0725,2024-01-26,Product,Product quality is not good compared to description,High,Closed,3,2
+TICK00417,ORD02467,CUST0716,2024-12-22,Delivery,Delivery partner did not call before marking delivery failed,High,Closed,4,1
+TICK00418,ORD00898,CUST0128,2024-05-24,App/Website,Unable to login to my account,Medium,Closed,5,3
+TICK00419,ORD01728,CUST0691,2024-08-09,Product,Wrong product was delivered,Medium,Escalated,5,
+TICK00420,ORD00443,CUST0559,2024-08-12,App/Website,Unable to login to my account,Medium,Escalated,8,
+TICK00421,ORD00522,CUST0042,2024-09-20,App/Website,Coupon code is not applying,Low,Closed,8,4
+TICK00422,ORD01808,CUST0205,2024-06-25,Refund,Refund status is not updated,Medium,Closed,5,5
+TICK00423,ORD01649,CUST0631,2024-12-21,Product,Wrong product was delivered,High,Closed,9,2
+TICK00424,ORD02051,CUST0593,2024-03-16,Delivery,My order is delayed and I have not received any update,Medium,Closed,2,1
+TICK00425,ORD01854,CUST0101,2024-10-11,Payment,Payment status is showing pending,Low,Closed,3,5
+TICK00426,ORD02350,CUST0143,2024-04-25,Payment,Payment failed but amount was deducted,Low,Closed,5,2
+TICK00427,ORD00706,CUST0063,2024-01-27,Product,Product is not working properly,Low,Closed,6,5
+TICK00428,ORD00663,CUST0390,2024-07-12,Delivery,Package tracking is not updating properly,Medium,Closed,2,1
+TICK00429,ORD01453,CUST0491,2024-03-13,App/Website,Unable to login to my account,Medium,Closed,2,3
+TICK00430,ORD02041,CUST0281,2024-01-19,Product,Product quality is not good compared to description,Medium,Closed,7,3
+TICK00431,ORD01266,CUST0142,2024-04-25,App/Website,Coupon code is not applying,High,Open,,
+TICK00432,ORD02001,CUST0773,2024-06-28,Refund,Refund not received even after return pickup,Low,Closed,1,5
+TICK00433,ORD01148,CUST0114,2024-04-03,Return,Return request is not getting approved,Medium,Open,,
+TICK00434,ORD02393,CUST0726,2024-10-01,Payment,Unable to complete payment using UPI,Medium,Closed,6,4
+TICK00435,ORD02175,CUST0458,2024-09-10,Refund,Refund is delayed for more than one week,Low,Closed,2,2
+TICK00436,ORD00246,CUST0253,2024-05-17,Delivery,Order was delivered very late,Low,Open,,
+TICK00437,ORD01849,CUST0263,2024-04-14,Refund,Refund not received even after return pickup,Low,Escalated,9,
+TICK00438,ORD00491,CUST0290,2024-05-19,Refund,Refund is delayed for more than one week,Low,Closed,9,5
+TICK00439,ORD01910,CUST0090,2024-10-31,Return,Return pickup has not been completed,High,Open,,
+TICK00440,ORD02087,CUST0531,2024-04-09,Refund,Refund amount is incorrect,Low,Open,,
+TICK00441,ORD00904,CUST0485,2024-07-03,App/Website,Coupon code is not applying,Low,Closed,3,4
+TICK00442,ORD00367,CUST0504,2024-12-18,Product,Received damaged product and box was opened,Low,Escalated,4,
+TICK00443,ORD01380,CUST0313,2024-02-19,Return,I am unable to schedule return pickup,Medium,Open,,
+TICK00444,ORD02032,CUST0773,2024-03-31,Payment,Payment status is showing pending,Low,Closed,1,4
+TICK00445,ORD00386,CUST0454,2024-09-02,Return,Return request is not getting approved,High,Closed,6,2
+TICK00446,ORD01738,CUST0699,2024-10-01,Payment,Payment failed but amount was deducted,Medium,Closed,4,4
+TICK00447,ORD00151,CUST0771,2024-08-04,Payment,Unable to complete payment using UPI,Low,Closed,9,2
+TICK00448,ORD01138,CUST0302,2024-09-04,Return,Return request is not getting approved,High,Open,,
+TICK00449,ORD00707,CUST0067,2024-03-19,Return,Return process is taking too much time,Low,Closed,2,4
+TICK00450,ORD01568,CUST0677,2024-11-22,Delivery,Package tracking is not updating properly,Medium,Closed,3,4
+TICK00451,ORD00338,CUST0472,2024-02-23,Return,Return process is taking too much time,Medium,Closed,8,1
+TICK00452,ORD01086,CUST0255,2024-04-23,App/Website,Coupon code is not applying,Medium,Open,,
+TICK00453,ORD01035,CUST0368,2025-01-09,Delivery,My order is delayed and I have not received any update,Low,Escalated,4,
+TICK00454,ORD02464,CUST0537,2024-06-28,App/Website,App is crashing during checkout,Medium,Closed,6,4
+TICK00455,ORD00180,CUST0629,2024-12-09,Payment,Cash on Delivery option is not available,Low,Open,,
+TICK00456,ORD02318,CUST0001,2024-06-10,Return,Return pickup has not been completed,Medium,Open,,
+TICK00457,ORD00855,CUST0330,2024-04-16,Delivery,Package tracking is not updating properly,Low,Closed,7,3
+TICK00458,ORD00682,CUST0506,2024-07-15,Payment,Payment failed but amount was deducted,High,Closed,8,1
+TICK00459,ORD00076,CUST0592,2024-06-10,Refund,Refund not received even after return pickup,Medium,Escalated,4,
+TICK00460,ORD02055,CUST0634,2024-08-25,App/Website,App is crashing during checkout,Low,Open,,
+TICK00461,ORD00543,CUST0115,2024-01-13,Refund,Refund is delayed for more than one week,High,Closed,7,5
+TICK00462,ORD00538,CUST0548,2024-01-22,Product,Wrong product was delivered,Medium,Closed,3,4
+TICK00463,ORD01569,CUST0141,2024-11-10,App/Website,Product page is not loading properly,Medium,Closed,3,4
+TICK00464,ORD00215,CUST0092,2024-12-31,Refund,Refund amount is incorrect,Low,Closed,6,2
+TICK00465,ORD02461,CUST0730,2024-08-24,Product,Wrong product was delivered,Medium,Closed,1,4
+TICK00466,ORD00380,CUST0311,2024-11-24,Return,Return process is taking too much time,Low,Open,,
+TICK00467,ORD00881,CUST0467,2024-12-25,Refund,Refund status is not updated,Medium,Closed,2,5
+TICK00468,ORD02499,CUST0555,2024-07-30,App/Website,Unable to login to my account,Low,Closed,7,2
+TICK00469,ORD02404,CUST0523,2024-01-11,App/Website,Coupon code is not applying,Medium,Open,,
+TICK00470,ORD01984,CUST0650,2024-11-20,Return,Return process is taking too much time,High,Open,,
+TICK00471,ORD02346,CUST0617,2024-05-23,Return,Return process is taking too much time,High,Closed,7,5
+TICK00472,ORD01398,CUST0639,2024-12-29,Delivery,Delivery partner did not call before marking delivery failed,Low,Closed,2,5
+TICK00473,ORD01351,CUST0503,2024-06-30,Refund,Refund not received even after return pickup,Medium,Open,,
+TICK00474,ORD01025,CUST0633,2024-09-08,Product,Product is not working properly,Medium,Closed,3,1
+TICK00475,ORD01516,CUST0733,2024-09-27,Refund,Refund status is not updated,Low,Closed,6,4
+TICK00476,ORD01297,CUST0628,2024-02-04,Delivery,My order is delayed and I have not received any update,Low,Closed,8,4
+TICK00477,ORD00294,CUST0328,2024-04-01,Delivery,My order is delayed and I have not received any update,Low,Closed,4,3
+TICK00478,ORD01228,CUST0422,2024-02-24,Delivery,Order was delivered very late,High,Closed,6,3
+TICK00479,ORD01850,CUST0707,2024-09-02,Return,I am unable to schedule return pickup,Low,Closed,7,3
+TICK00480,ORD02437,CUST0496,2024-05-30,Product,Product quality is not good compared to description,Low,Closed,8,3
+TICK00481,ORD00849,CUST0743,2024-11-08,Delivery,Delivery partner did not call before marking delivery failed,Low,Closed,1,2
+TICK00482,ORD01513,CUST0637,2024-01-17,Product,Product quality is not good compared to description,Medium,Closed,7,2
+TICK00483,ORD01221,CUST0512,2024-12-10,Refund,Refund status is not updated,Medium,Open,,
+TICK00484,ORD00586,CUST0699,2024-07-18,Delivery,Delivery partner did not call before marking delivery failed,Low,Closed,4,4
+TICK00485,ORD01492,CUST0256,2024-10-10,Delivery,My order is delayed and I have not received any update,Low,Closed,5,2
+TICK00486,ORD00756,CUST0208,2024-08-31,Return,Return request is not getting approved,Medium,Closed,7,2
+TICK00487,ORD02315,CUST0492,2024-10-24,Delivery,Order was delivered very late,Medium,Closed,6,1
+TICK00488,ORD00177,CUST0183,2024-08-27,Delivery,My order is delayed and I have not received any update,Medium,Closed,2,4
+TICK00489,ORD01352,CUST0499,2024-05-16,Product,Product quality is not good compared to description,Medium,Closed,6,5
+TICK00490,ORD01379,CUST0139,2024-08-03,Refund,Refund status is not updated,Low,Closed,8,4
+TICK00491,ORD01719,CUST0675,2024-03-20,App/Website,Product page is not loading properly,Low,Closed,5,4
+TICK00492,ORD02479,CUST0725,2024-04-01,Delivery,Order was delivered very late,High,Closed,1,5
+TICK00493,ORD02261,CUST0797,2024-04-18,Refund,Refund is delayed for more than one week,Low,Open,,
+TICK00494,ORD01810,CUST0251,2024-12-26,Product,Product is not working properly,High,Closed,1,5
+TICK00495,ORD00235,CUST0483,2024-11-04,Payment,Payment status is showing pending,Low,Closed,9,5
+TICK00496,ORD01711,CUST0695,2024-08-06,Refund,Refund status is not updated,Low,Closed,7,5
+TICK00497,ORD02121,CUST0069,2024-04-14,Payment,Unable to complete payment using UPI,Low,Open,,
+TICK00498,ORD01909,CUST0800,2024-03-01,Payment,Payment failed but amount was deducted,High,Open,,
+TICK00499,ORD01496,CUST0184,2024-08-27,Payment,Unable to complete payment using UPI,Low,Closed,5,4
+TICK00500,ORD02092,CUST0193,2024-07-31,Payment,Cash on Delivery option is not available,Low,Closed,4,2
+TICK00501,ORD02061,CUST0783,2024-03-23,Return,I am unable to schedule return pickup,Low,Closed,2,3
+TICK00502,ORD01143,CUST0609,2024-04-03,Return,Return pickup has not been completed,Medium,Escalated,5,
+TICK00503,ORD00092,CUST0238,2024-04-27,Payment,Unable to complete payment using UPI,High,Open,,
+TICK00504,ORD00521,CUST0191,2024-08-15,Return,I am unable to schedule return pickup,High,Closed,2,2
+TICK00505,ORD01219,CUST0696,2024-10-29,Delivery,Package tracking is not updating properly,Medium,Open,,
+TICK00506,ORD01037,CUST0762,2024-06-29,App/Website,Unable to login to my account,Low,Closed,4,1
+TICK00507,ORD00994,CUST0797,2024-05-26,Payment,Payment status is showing pending,Medium,Closed,9,1
+TICK00508,ORD01697,CUST0600,2024-07-27,Delivery,My order is delayed and I have not received any update,Medium,Open,,
+TICK00509,ORD00878,CUST0253,2024-05-16,Payment,Payment failed but amount was deducted,Low,Open,,
+TICK00510,ORD00277,CUST0427,2024-12-20,Delivery,Package tracking is not updating properly,High,Closed,5,4
+TICK00511,ORD00043,CUST0748,2024-11-28,Refund,Refund amount is incorrect,Low,Closed,9,1
+TICK00512,ORD01235,CUST0675,2024-05-25,Delivery,My order is delayed and I have not received any update,Medium,Closed,3,4
+TICK00513,ORD00388,CUST0169,2024-09-19,App/Website,App is crashing during checkout,High,Closed,3,4
+TICK00514,ORD01661,CUST0026,2024-07-16,Delivery,Order was delivered very late,Medium,Escalated,1,
+TICK00515,ORD01122,CUST0436,2024-03-19,Payment,Cash on Delivery option is not available,High,Closed,5,1
+TICK00516,ORD01655,CUST0574,2024-07-27,App/Website,Product page is not loading properly,High,Closed,2,4
+TICK00517,ORD00394,CUST0063,2024-01-18,App/Website,Product page is not loading properly,Medium,Closed,1,4
+TICK00518,ORD00910,CUST0287,2025-01-02,Delivery,Delivery partner did not call before marking delivery failed,High,Closed,9,3
+TICK00519,ORD00505,CUST0383,2024-11-09,Refund,Refund amount is incorrect,Low,Closed,8,4
+TICK00520,ORD01217,CUST0224,2024-04-14,App/Website,Coupon code is not applying,Low,Escalated,1,
+TICK00521,ORD00804,CUST0633,2024-08-13,Delivery,Order was delivered very late,Low,Open,,
+TICK00522,ORD01907,CUST0504,2024-06-01,Delivery,Delivery partner did not call before marking delivery failed,Low,Closed,7,2
+TICK00523,ORD00667,CUST0570,2024-05-28,App/Website,Unable to login to my account,Medium,Closed,8,4
+TICK00524,ORD01508,CUST0455,2024-02-29,App/Website,Coupon code is not applying,Medium,Closed,6,5
+TICK00525,ORD02050,CUST0710,2024-03-15,Product,Received damaged product and box was opened,Low,Closed,2,1
+TICK00526,ORD00640,CUST0282,2024-04-19,Return,Return request is not getting approved,Low,Escalated,3,
+TICK00527,ORD01842,CUST0285,2024-11-20,Return,Return process is taking too much time,Medium,Closed,1,5
+TICK00528,ORD00356,CUST0715,2024-11-02,Payment,Payment status is showing pending,High,Open,,
+TICK00529,ORD01673,CUST0754,2024-04-10,Product,Received damaged product and box was opened,Medium,Closed,6,3
+TICK00530,ORD02371,CUST0771,2024-10-07,App/Website,App is crashing during checkout,Low,Closed,2,2
+TICK00531,ORD02441,CUST0466,2024-10-10,Delivery,Package tracking is not updating properly,Low,Closed,8,4
+TICK00532,ORD00854,CUST0713,2024-05-04,Delivery,Package tracking is not updating properly,High,Closed,2,2
+TICK00533,ORD00005,CUST0333,2024-09-04,Refund,Refund is delayed for more than one week,High,Open,,
+TICK00534,ORD01444,CUST0162,2024-06-02,Return,Return pickup has not been completed,Low,Closed,8,2
+TICK00535,ORD01642,CUST0644,2024-01-14,Return,Return request is not getting approved,High,Closed,3,2
+TICK00536,ORD00996,CUST0108,2024-03-08,Refund,Refund is delayed for more than one week,Low,Open,,
+TICK00537,ORD00577,CUST0121,2024-04-21,Payment,Cash on Delivery option is not available,Medium,Closed,7,3
+TICK00538,ORD02012,CUST0800,2025-01-06,Product,Received damaged product and box was opened,Low,Open,,
+TICK00539,ORD01385,CUST0029,2024-10-14,Refund,Refund not received even after return pickup,Low,Closed,6,3
+TICK00540,ORD00248,CUST0046,2024-02-03,Refund,Refund status is not updated,Medium,Closed,5,1
+TICK00541,ORD00637,CUST0634,2024-10-13,App/Website,Product page is not loading properly,Low,Closed,6,3
+TICK00542,ORD00895,CUST0768,2024-04-06,App/Website,Product page is not loading properly,Medium,Closed,8,1
+TICK00543,ORD02033,CUST0115,2024-04-18,Product,Product is not working properly,Medium,Closed,8,2
+TICK00544,ORD01731,CUST0371,2024-07-02,Delivery,Order was delivered very late,Low,Closed,3,2
+TICK00545,ORD01563,CUST0763,2024-05-06,Product,Product is not working properly,Low,Closed,2,4
+TICK00546,ORD01830,CUST0299,2024-06-20,Refund,Refund is delayed for more than one week,Low,Open,,
+TICK00547,ORD00554,CUST0732,2024-02-12,Product,Product quality is not good compared to description,High,Closed,4,3
+TICK00548,ORD00007,CUST0321,2024-07-28,Refund,Refund status is not updated,Medium,Closed,7,5
+TICK00549,ORD01632,CUST0381,2024-10-27,Product,Product is not working properly,Medium,Open,,
+TICK00550,ORD00349,CUST0617,2024-04-25,Payment,Payment failed but amount was deducted,Medium,Open,,
+TICK00551,ORD02162,CUST0403,2024-03-27,App/Website,App is crashing during checkout,Low,Closed,9,5
+TICK00552,ORD01421,CUST0633,2024-08-06,Product,Product is not working properly,Low,Closed,4,5
+TICK00553,ORD00254,CUST0471,2024-10-27,Refund,Refund status is not updated,Medium,Closed,4,4
+TICK00554,ORD00390,CUST0692,2024-09-21,Refund,Refund amount is incorrect,Low,Open,,
+TICK00555,ORD00722,CUST0378,2024-01-08,Return,Return request is not getting approved,High,Open,,
+TICK00556,ORD00392,CUST0270,2024-09-23,Refund,Refund status is not updated,Low,Closed,5,2
+TICK00557,ORD00579,CUST0102,2024-03-23,Delivery,My order is delayed and I have not received any update,Medium,Closed,9,4
+TICK00558,ORD00318,CUST0158,2024-05-21,App/Website,Unable to login to my account,Medium,Closed,4,5
+TICK00559,ORD01978,CUST0187,2024-07-24,Refund,Refund is delayed for more than one week,Low,Closed,9,2
+TICK00560,ORD00724,CUST0353,2024-04-13,Payment,Cash on Delivery option is not available,Low,Open,,
+TICK00561,ORD00700,CUST0642,2024-11-21,Delivery,My order is delayed and I have not received any update,Medium,Closed,6,4
+TICK00562,ORD00790,CUST0211,2024-05-03,Delivery,My order is delayed and I have not received any update,Low,Open,,
+TICK00563,ORD02013,CUST0532,2024-12-14,Refund,Refund amount is incorrect,Medium,Closed,7,2
+TICK00564,ORD01141,CUST0027,2024-12-23,App/Website,Coupon code is not applying,Medium,Closed,5,1
+TICK00565,ORD00405,CUST0103,2024-12-25,Product,Product is not working properly,Low,Closed,1,5
+TICK00566,ORD02024,CUST0470,2025-01-01,Delivery,My order is delayed and I have not received any update,Low,Closed,1,4
+TICK00567,ORD01674,CUST0430,2024-03-12,Refund,Refund status is not updated,Medium,Escalated,4,
+TICK00568,ORD00882,CUST0617,2024-10-27,Delivery,Package tracking is not updating properly,Medium,Closed,1,5
+TICK00569,ORD01475,CUST0760,2024-10-21,Payment,Cash on Delivery option is not available,Medium,Closed,5,2
+TICK00570,ORD00313,CUST0655,2024-06-01,Product,Product is not working properly,Low,Open,,
+TICK00571,ORD01703,CUST0578,2024-07-24,App/Website,Coupon code is not applying,Medium,Closed,7,2
+TICK00572,ORD00181,CUST0266,2024-03-05,Delivery,Package tracking is not updating properly,Medium,Closed,9,1
+TICK00573,ORD00426,CUST0704,2024-11-12,Product,Product is not working properly,High,Closed,1,5
+TICK00574,ORD01093,CUST0764,2024-12-26,Payment,Payment status is showing pending,Low,Closed,9,3
+TICK00575,ORD00524,CUST0540,2024-11-27,Delivery,Order was delivered very late,Low,Closed,1,1
+TICK00576,ORD02457,CUST0248,2024-08-31,Refund,Refund is delayed for more than one week,Low,Open,,
+TICK00577,ORD00252,CUST0303,2024-05-04,Delivery,Order was delivered very late,Low,Closed,8,3
+TICK00578,ORD01768,CUST0527,2024-10-07,Delivery,My order is delayed and I have not received any update,Low,Closed,2,2
+TICK00579,ORD01409,CUST0396,2025-01-01,Return,Return request is not getting approved,Low,Closed,1,3
+TICK00580,ORD00738,CUST0568,2024-05-09,App/Website,App is crashing during checkout,High,Closed,6,5
+TICK00581,ORD02167,CUST0684,2024-04-07,Delivery,Delivery partner did not call before marking delivery failed,Low,Closed,1,4
+TICK00582,ORD00149,CUST0186,2024-10-11,Delivery,Delivery partner did not call before marking delivery failed,Low,Closed,3,4
+TICK00583,ORD01726,CUST0249,2024-02-21,Return,Return process is taking too much time,Medium,Closed,1,5
+TICK00584,ORD00019,CUST0751,2024-03-06,Product,Product quality is not good compared to description,High,Open,,
+TICK00585,ORD01179,CUST0097,2024-08-30,Return,Return process is taking too much time,Medium,Open,,
+TICK00586,ORD02302,CUST0384,2024-09-22,Delivery,My order is delayed and I have not received any update,Low,Closed,3,2
+TICK00587,ORD00721,CUST0481,2024-06-11,Delivery,My order is delayed and I have not received any update,Medium,Escalated,3,
+TICK00588,ORD00560,CUST0520,2024-05-03,Payment,Unable to complete payment using UPI,High,Closed,2,5
+TICK00589,ORD02419,CUST0087,2024-12-28,Delivery,Order was delivered very late,High,Closed,7,5
+TICK00590,ORD00272,CUST0636,2024-07-21,Delivery,Order was delivered very late,Medium,Closed,1,4
+TICK00591,ORD01784,CUST0354,2024-02-20,Product,Product quality is not good compared to description,Low,Closed,5,3
+TICK00592,ORD01288,CUST0511,2024-02-05,App/Website,Unable to login to my account,Medium,Closed,7,2
+TICK00593,ORD00742,CUST0382,2024-12-08,Product,Received damaged product and box was opened,High,Closed,2,4
+TICK00594,ORD01583,CUST0714,2024-07-25,Return,Return process is taking too much time,Low,Open,,
+TICK00595,ORD00290,CUST0211,2024-10-19,Payment,Payment status is showing pending,Low,Open,,
+TICK00596,ORD01775,CUST0651,2024-06-17,Delivery,Delivery partner did not call before marking delivery failed,Medium,Closed,6,1
+TICK00597,ORD00986,CUST0693,2024-08-16,Product,Product quality is not good compared to description,Low,Closed,8,2
+TICK00598,ORD00695,CUST0230,2024-02-08,Payment,Cash on Delivery option is not available,High,Closed,5,1
+TICK00599,ORD00014,CUST0662,2024-08-21,Refund,Refund status is not updated,Medium,Open,,
+TICK00600,ORD02203,CUST0327,2024-09-23,Return,Return request is not getting approved,Low,Closed,4,4
+TICK00601,ORD00824,CUST0707,2024-06-15,App/Website,Coupon code is not applying,High,Closed,5,2
+TICK00602,ORD02226,CUST0774,2024-08-10,Payment,Payment failed but amount was deducted,Medium,Closed,1,1
+TICK00603,ORD01109,CUST0556,2024-06-27,Payment,Cash on Delivery option is not available,Low,Open,,
+TICK00604,ORD01031,CUST0257,2024-05-01,Return,Return request is not getting approved,Low,Closed,7,5
+TICK00605,ORD01308,CUST0424,2024-11-24,App/Website,Unable to login to my account,Low,Closed,1,2
+TICK00606,ORD00127,CUST0522,2024-08-11,App/Website,Unable to login to my account,High,Closed,5,4
+TICK00607,ORD01046,CUST0780,2024-08-10,App/Website,Coupon code is not applying,Low,Closed,1,2
+TICK00608,ORD01853,CUST0213,2024-04-27,Product,Product quality is not good compared to description,Low,Escalated,2,
+TICK00609,ORD00561,CUST0733,2024-12-14,Return,Return pickup has not been completed,Low,Closed,8,3
+TICK00610,ORD02483,CUST0534,2024-02-10,Return,I am unable to schedule return pickup,Low,Escalated,3,
+TICK00611,ORD01796,CUST0549,2024-10-07,Return,Return pickup has not been completed,Medium,Closed,5,4
+TICK00612,ORD01077,CUST0408,2024-09-21,Return,Return process is taking too much time,Low,Open,,
+TICK00613,ORD02199,CUST0376,2024-10-01,Product,Product is not working properly,Medium,Closed,7,5
+TICK00614,ORD01428,CUST0647,2024-01-17,Product,Product is not working properly,Low,Open,,
+TICK00615,ORD00028,CUST0470,2024-09-12,Delivery,Package tracking is not updating properly,Medium,Closed,6,2
+TICK00616,ORD00899,CUST0600,2024-05-07,Return,Return process is taking too much time,Medium,Open,,
+TICK00617,ORD00321,CUST0123,2024-06-02,Product,Product is not working properly,High,Closed,8,1
+TICK00618,ORD00965,CUST0711,2024-02-24,Refund,Refund amount is incorrect,Low,Closed,6,5
+TICK00619,ORD00148,CUST0180,2024-05-14,Refund,Refund is delayed for more than one week,High,Escalated,1,
+TICK00620,ORD00310,CUST0425,2024-03-22,App/Website,Unable to login to my account,High,Escalated,6,
+TICK00621,ORD02336,CUST0046,2024-10-19,Return,I am unable to schedule return pickup,High,Closed,5,2
+TICK00622,ORD02276,CUST0132,2024-06-17,App/Website,App is crashing during checkout,Medium,Open,,
+TICK00623,ORD02108,CUST0102,2024-09-04,Delivery,Package tracking is not updating properly,Medium,Closed,3,3
+TICK00624,ORD02090,CUST0120,2024-12-19,Delivery,Order was delivered very late,Medium,Closed,7,3
+TICK00625,ORD00067,CUST0115,2024-07-13,Delivery,My order is delayed and I have not received any update,Medium,Closed,8,3
+TICK00626,ORD01418,CUST0070,2024-11-27,Return,Return request is not getting approved,Medium,Open,,
+TICK00627,ORD01360,CUST0180,2024-05-18,Refund,Refund not received even after return pickup,Low,Escalated,4,
+TICK00628,ORD00378,CUST0055,2024-02-09,Product,Product quality is not good compared to description,Medium,Closed,3,2
+TICK00629,ORD02240,CUST0203,2024-01-18,Payment,Unable to complete payment using UPI,Low,Open,,
+TICK00630,ORD01267,CUST0281,2024-09-14,Refund,Refund not received even after return pickup,Low,Closed,8,5
+TICK00631,ORD00434,CUST0373,2024-12-22,Refund,Refund status is not updated,Medium,Closed,9,1
+TICK00632,ORD01001,CUST0607,2024-03-16,Product,Product quality is not good compared to description,Low,Closed,7,5
+TICK00633,ORD01085,CUST0137,2024-05-31,Delivery,Order was delivered very late,High,Closed,9,2
+TICK00634,ORD00216,CUST0711,2024-09-11,App/Website,App is crashing during checkout,High,Closed,2,2
+TICK00635,ORD01502,CUST0633,2024-12-06,Return,Return process is taking too much time,Low,Closed,8,4
+TICK00636,ORD01604,CUST0016,2024-10-13,Return,Return process is taking too much time,Medium,Closed,6,1
+TICK00637,ORD00509,CUST0750,2024-10-19,Refund,Refund amount is incorrect,Medium,Open,,
+TICK00638,ORD00311,CUST0213,2024-06-17,Product,Wrong product was delivered,High,Escalated,3,
+TICK00639,ORD02358,CUST0656,2024-11-26,Return,I am unable to schedule return pickup,High,Closed,3,5
+TICK00640,ORD00963,CUST0501,2024-11-25,Delivery,Package tracking is not updating properly,Low,Closed,6,1
+TICK00641,ORD00325,CUST0167,2024-11-02,Product,Wrong product was delivered,Medium,Open,,
+TICK00642,ORD00925,CUST0649,2024-09-09,Product,Product is not working properly,Low,Escalated,9,
+TICK00643,ORD02272,CUST0795,2024-03-30,Refund,Refund not received even after return pickup,Medium,Closed,2,5
+TICK00644,ORD00500,CUST0173,2024-09-20,Refund,Refund not received even after return pickup,Medium,Open,,
+TICK00645,ORD00317,CUST0758,2024-08-29,Refund,Refund is delayed for more than one week,Low,Closed,4,1
+TICK00646,ORD02088,CUST0618,2024-03-24,Delivery,Order was delivered very late,Medium,Closed,1,1
+TICK00647,ORD00839,CUST0098,2024-11-11,App/Website,App is crashing during checkout,Medium,Closed,3,1
+TICK00648,ORD00257,CUST0073,2024-07-17,App/Website,Product page is not loading properly,Low,Closed,2,5
+TICK00649,ORD02301,CUST0763,2024-11-24,Delivery,Package tracking is not updating properly,Low,Closed,5,3
+TICK00650,ORD00916,CUST0439,2024-09-14,Delivery,Package tracking is not updating properly,Low,Escalated,2,
+TICK00651,ORD01477,CUST0451,2024-12-07,Product,Wrong product was delivered,Medium,Closed,4,5
+TICK00652,ORD00880,CUST0682,2024-11-28,Product,Wrong product was delivered,Medium,Escalated,6,
+TICK00653,ORD02412,CUST0269,2024-08-04,Return,Return request is not getting approved,Low,Closed,8,5
+TICK00654,ORD00597,CUST0087,2024-01-26,Payment,Payment status is showing pending,Low,Closed,3,4
+TICK00655,ORD00890,CUST0100,2024-02-10,Product,Product quality is not good compared to description,High,Closed,1,2
+TICK00656,ORD01807,CUST0378,2024-05-13,Payment,Payment failed but amount was deducted,High,Closed,7,3
+TICK00657,ORD01259,CUST0704,2024-08-04,Refund,Refund status is not updated,Medium,Closed,1,4
+TICK00658,ORD00688,CUST0266,2024-10-29,Payment,Cash on Delivery option is not available,High,Open,,
+TICK00659,ORD01038,CUST0204,2024-09-15,Return,I am unable to schedule return pickup,Medium,Open,,
+TICK00660,ORD01626,CUST0776,2024-01-13,Delivery,My order is delayed and I have not received any update,Medium,Closed,2,4
+TICK00661,ORD01042,CUST0022,2024-03-16,Product,Product is not working properly,Low,Closed,7,2
+TICK00662,ORD01762,CUST0335,2024-07-21,Refund,Refund not received even after return pickup,Medium,Closed,9,1
+TICK00663,ORD01948,CUST0329,2024-01-17,Product,Received damaged product and box was opened,Medium,Closed,5,1
+TICK00664,ORD02460,CUST0219,2024-05-12,Refund,Refund is delayed for more than one week,Medium,Closed,7,5
+TICK00665,ORD01300,CUST0011,2024-03-14,Return,I am unable to schedule return pickup,Low,Closed,5,4
+TICK00666,ORD01730,CUST0624,2024-04-02,Product,Received damaged product and box was opened,Low,Closed,9,4
+TICK00667,ORD02422,CUST0549,2024-11-11,App/Website,Product page is not loading properly,Low,Closed,6,3
+TICK00668,ORD01562,CUST0750,2024-12-16,Refund,Refund not received even after return pickup,High,Escalated,2,
+TICK00669,ORD00789,CUST0192,2024-04-20,Return,Return request is not getting approved,Medium,Closed,7,4
+TICK00670,ORD01101,CUST0167,2024-04-11,Return,Return process is taking too much time,Medium,Open,,
+TICK00671,ORD00915,CUST0622,2024-09-14,Product,Wrong product was delivered,Low,Open,,
+TICK00672,ORD02234,CUST0476,2024-08-28,Return,I am unable to schedule return pickup,Medium,Closed,7,3
+TICK00673,ORD01447,CUST0483,2024-05-23,Delivery,Package tracking is not updating properly,Medium,Open,,
+TICK00674,ORD00938,CUST0765,2024-12-15,Delivery,Delivery partner did not call before marking delivery failed,Medium,Open,,
+TICK00675,ORD01542,CUST0461,2024-08-16,Refund,Refund is delayed for more than one week,High,Closed,3,5
+TICK00676,ORD00603,CUST0062,2024-07-11,Return,I am unable to schedule return pickup,Medium,Closed,7,1
+TICK00677,ORD02225,CUST0506,2024-07-08,Product,Received damaged product and box was opened,Medium,Closed,2,3
+TICK00678,ORD01405,CUST0023,2024-04-06,App/Website,Coupon code is not applying,Medium,Open,,
+TICK00679,ORD01881,CUST0781,2024-08-04,Product,Wrong product was delivered,Medium,Closed,1,3
+TICK00680,ORD01178,CUST0147,2024-06-18,Delivery,Package tracking is not updating properly,Low,Closed,9,2
+TICK00681,ORD00593,CUST0761,2024-06-11,Payment,Unable to complete payment using UPI,Medium,Closed,8,4
+TICK00682,ORD00550,CUST0584,2024-07-22,Payment,Cash on Delivery option is not available,Medium,Open,,
+TICK00683,ORD01244,CUST0122,2024-12-02,Payment,Payment status is showing pending,Low,Closed,8,2
+TICK00684,ORD01251,CUST0549,2024-05-13,App/Website,App is crashing during checkout,Medium,Closed,2,5
+TICK00685,ORD00398,CUST0251,2024-05-12,Refund,Refund is delayed for more than one week,High,Closed,3,3
+TICK00686,ORD02164,CUST0205,2024-04-24,Delivery,My order is delayed and I have not received any update,Low,Closed,2,4
+TICK00687,ORD00150,CUST0087,2024-03-19,App/Website,Product page is not loading properly,Low,Closed,8,5
+TICK00688,ORD00413,CUST0215,2024-06-27,Return,Return request is not getting approved,Low,Closed,1,4
+TICK00689,ORD02044,CUST0022,2024-11-21,Return,Return process is taking too much time,Medium,Closed,2,1
+TICK00690,ORD01002,CUST0526,2024-03-21,App/Website,Product page is not loading properly,Low,Open,,
+TICK00691,ORD00710,CUST0391,2024-07-26,Payment,Payment status is showing pending,Low,Closed,4,4
+TICK00692,ORD02249,CUST0133,2024-10-09,Payment,Payment failed but amount was deducted,Medium,Escalated,4,
+TICK00693,ORD02417,CUST0534,2024-05-30,Payment,Payment failed but amount was deducted,High,Closed,8,5
+TICK00694,ORD02367,CUST0398,2024-07-17,Refund,Refund amount is incorrect,Medium,Open,,
+TICK00695,ORD01912,CUST0463,2024-04-01,Product,Received damaged product and box was opened,Medium,Closed,3,2
+TICK00696,ORD01699,CUST0351,2025-01-01,Delivery,My order is delayed and I have not received any update,Low,Closed,9,4
+TICK00697,ORD02067,CUST0424,2024-03-25,App/Website,App is crashing during checkout,Low,Closed,3,2
+TICK00698,ORD01537,CUST0528,2024-10-05,App/Website,Unable to login to my account,Medium,Open,,
+TICK00699,ORD00826,CUST0256,2024-07-18,Return,Return pickup has not been completed,Low,Open,,
+TICK00700,ORD00838,CUST0512,2024-03-02,Product,Wrong product was delivered,High,Open,,
+TICK00701,ORD02095,CUST0577,2024-10-23,Return,Return request is not getting approved,High,Closed,3,1
+TICK00702,ORD00534,CUST0305,2024-06-12,Return,I am unable to schedule return pickup,Low,Closed,9,3
+TICK00703,ORD02072,CUST0188,2024-02-23,Product,Product quality is not good compared to description,Medium,Closed,9,4
+TICK00704,ORD01670,CUST0483,2024-11-11,Return,I am unable to schedule return pickup,Medium,Open,,
+TICK00705,ORD01237,CUST0027,2024-03-26,Return,Return process is taking too much time,Low,Closed,4,5
+TICK00706,ORD02338,CUST0761,2024-01-27,App/Website,Unable to login to my account,Medium,Closed,1,4
+TICK00707,ORD02198,CUST0689,2024-05-23,Return,Return request is not getting approved,Low,Closed,9,3
+TICK00708,ORD00677,CUST0787,2024-12-29,Return,Return request is not getting approved,High,Open,,
+TICK00709,ORD00471,CUST0736,2024-10-08,Return,Return process is taking too much time,Medium,Closed,2,5
+TICK00710,ORD02447,CUST0099,2024-12-21,Refund,Refund amount is incorrect,Low,Closed,8,5
+TICK00711,ORD01330,CUST0392,2024-08-07,Payment,Payment status is showing pending,Medium,Closed,6,5
+TICK00712,ORD02229,CUST0269,2024-06-14,Return,I am unable to schedule return pickup,Medium,Closed,9,2
+TICK00713,ORD01848,CUST0458,2024-10-22,Refund,Refund status is not updated,Medium,Closed,3,2
+TICK00714,ORD01324,CUST0017,2024-08-28,Delivery,Package tracking is not updating properly,Low,Closed,1,2
+TICK00715,ORD01027,CUST0110,2024-01-11,Return,I am unable to schedule return pickup,Medium,Open,,
+TICK00716,ORD00429,CUST0663,2024-01-22,Payment,Payment failed but amount was deducted,Medium,Closed,9,5
+TICK00717,ORD01564,CUST0161,2024-09-29,Return,Return request is not getting approved,Low,Open,,
+TICK00718,ORD00383,CUST0517,2024-05-25,Return,Return request is not getting approved,Low,Closed,5,1
+TICK00719,ORD00066,CUST0463,2024-06-17,Payment,Payment status is showing pending,Medium,Open,,
+TICK00720,ORD02260,CUST0618,2024-05-21,Return,Return pickup has not been completed,Low,Open,,
+TICK00721,ORD00155,CUST0309,2024-09-12,Payment,Cash on Delivery option is not available,Low,Closed,2,1
+TICK00722,ORD00813,CUST0352,2024-08-02,Delivery,Delivery partner did not call before marking delivery failed,Medium,Closed,1,4
+TICK00723,ORD00253,CUST0492,2024-12-21,Payment,Payment status is showing pending,Low,Open,,
+TICK00724,ORD01461,CUST0377,2024-07-04,Payment,Unable to complete payment using UPI,Low,Closed,6,5
+TICK00725,ORD02379,CUST0132,2024-11-05,Product,Product is not working properly,High,Open,,
+TICK00726,ORD01592,CUST0620,2024-10-11,Refund,Refund status is not updated,Low,Closed,5,5
+TICK00727,ORD02456,CUST0128,2024-02-29,Product,Product quality is not good compared to description,Low,Open,,
+TICK00728,ORD00220,CUST0309,2024-07-08,App/Website,Product page is not loading properly,Medium,Closed,1,3
+TICK00729,ORD00991,CUST0027,2024-11-19,Delivery,Delivery partner did not call before marking delivery failed,High,Escalated,8,
+TICK00730,ORD00922,CUST0446,2024-01-27,Payment,Payment failed but amount was deducted,Medium,Escalated,5,
+TICK00731,ORD01223,CUST0784,2024-06-30,Delivery,My order is delayed and I have not received any update,Low,Closed,7,4
+TICK00732,ORD00031,CUST0453,2024-02-23,Return,Return process is taking too much time,Medium,Open,,
+TICK00733,ORD01940,CUST0145,2024-05-09,Product,Wrong product was delivered,Low,Closed,3,3
+TICK00734,ORD00499,CUST0358,2024-02-23,App/Website,App is crashing during checkout,Low,Closed,2,5
+TICK00735,ORD02230,CUST0492,2024-07-12,Refund,Refund status is not updated,Low,Closed,7,5
+TICK00736,ORD00085,CUST0030,2024-09-06,Refund,Refund not received even after return pickup,Low,Closed,5,4
+TICK00737,ORD00425,CUST0274,2024-06-04,Return,Return pickup has not been completed,Low,Closed,3,4
+TICK00738,ORD02463,CUST0555,2024-05-23,Refund,Refund status is not updated,Low,Closed,3,3
+TICK00739,ORD01394,CUST0759,2024-11-02,Payment,Payment failed but amount was deducted,Low,Open,,
+TICK00740,ORD01094,CUST0650,2024-11-13,Payment,Payment failed but amount was deducted,Medium,Closed,1,3
+TICK00741,ORD00454,CUST0433,2024-03-03,Refund,Refund status is not updated,Low,Closed,4,3
+TICK00742,ORD01988,CUST0739,2024-06-08,Refund,Refund is delayed for more than one week,Low,Closed,7,1
+TICK00743,ORD00409,CUST0220,2024-06-06,Return,Return request is not getting approved,Low,Open,,
+TICK00744,ORD02119,CUST0713,2024-08-27,Delivery,Delivery partner did not call before marking delivery failed,Medium,Closed,4,1
+TICK00745,ORD02253,CUST0705,2024-05-12,Delivery,Package tracking is not updating properly,Low,Escalated,6,
+TICK00746,ORD00654,CUST0417,2024-02-13,Return,Return pickup has not been completed,Medium,Open,,
+TICK00747,ORD01630,CUST0304,2024-03-04,Return,Return request is not getting approved,Low,Closed,9,4
+TICK00748,ORD01362,CUST0196,2024-01-23,Product,Product is not working properly,Low,Open,,
+TICK00749,ORD02016,CUST0595,2024-12-18,Refund,Refund not received even after return pickup,High,Escalated,8,
+TICK00750,ORD00197,CUST0399,2024-02-13,App/Website,Unable to login to my account,Low,Escalated,1,
+TICK00011,ORD00905,CUST0380,2024-12-17,App/Website,Product page is not loading properly,High,Closed,6,1

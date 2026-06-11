@@ -1,0 +1,85 @@
+product_id,product_name,category,sub_category,brand,mrp,selling_price,discount_percent,cost_price,seller_name,product_rating,rating_count
+PROD0001,Apple iPhone 15 128GB,Electronics,Mobiles,Apple,79900,64999,18.65,51243,Retailnet,4.5,8624
+PROD0002,Apple iPhone 14 128GB,Electronics,Mobiles,Apple,69900,57999,17.03,39875,Retailnet,3.8,31929
+PROD0003,Samsung Galaxy S24 5G 256GB,Electronics,Mobiles,Samsung,79999,67999,15.0,46935,Retailnet,4.2,25587
+PROD0004,Samsung Galaxy A35 5G,Electronics,Mobiles,Samsung,39999,30999,22.5,24432,Visionstar,3.7,14585
+PROD0005,OnePlus Nord CE 4 5G,Electronics,Mobiles,OnePlus,26999,24999,7.41,19430,Supercomnet,3.6,13799
+PROD0006,OnePlus 12R 5G,Electronics,Mobiles,OnePlus,45999,39999,13.04,31507,Supercomnet,4.1,41992
+PROD0007,Redmi Note 13 Pro 5G,Electronics,Mobiles,Xiaomi,28999,23999,17.24,15905,Homestore India,4.5,3940
+PROD0008,realme Narzo 70 Pro 5G,Electronics,Mobiles,Realme,24999,19999,20.0,16458,Retailnet,4.2,4732
+PROD0009,vivo V30 5G,Electronics,Mobiles,Vivo,37999,32999,13.16,27231,Supercomnet,4.6,34164
+PROD0010,Motorola Edge 50 Fusion,Electronics,Mobiles,Motorola,27999,22999,17.86,15418,Omnitechretail,4.2,12536
+PROD0011,POCO X6 Pro 5G,Electronics,Mobiles,POCO,30999,25999,16.13,17953,Omnitechretail,4.2,11844
+PROD0012,Nothing Phone 2a 5G,Electronics,Mobiles,Nothing,27999,23999,14.29,18413,Homestore India,4.4,41972
+PROD0013,HP 15s Ryzen 5 16GB 512GB SSD,Electronics,Laptops,HP,61999,47999,22.58,37010,Dailyneeds Mart,4.4,28108
+PROD0014,Lenovo IdeaPad Slim 3 Intel i5,Electronics,Laptops,Lenovo,67999,52999,22.06,44274,Truecomretail,4.5,36162
+PROD0015,Dell Inspiron 15 Intel i5 12th Gen,Electronics,Laptops,Dell,69999,54999,21.43,40387,Fashionhub India,4.3,35109
+PROD0016,ASUS Vivobook 15 OLED,Electronics,Laptops,ASUS,75999,59999,21.05,51579,Dailyneeds Mart,4.6,20773
+PROD0017,Acer Aspire 7 Ryzen 5 GTX 1650,Electronics,Laptops,Acer,79999,57999,27.5,44399,Fashionhub India,4.5,27143
+PROD0018,Apple MacBook Air M2 256GB,Electronics,Laptops,Apple,114900,89999,21.67,72942,Homestore India,4.5,21317
+PROD0019,MSI Thin 15 Gaming Laptop,Electronics,Laptops,MSI,83999,64999,22.62,50554,Omnitechretail,4.0,36180
+PROD0020,Samsung Galaxy Book4,Electronics,Laptops,Samsung,78999,61999,21.52,52357,Visionstar,4.0,29768
+PROD0021,boAt Rockerz 450 Bluetooth Headset,Electronics,Headphones,boAt,3990,1499,62.43,1115,Homestore India,3.6,2391
+PROD0022,Sony WH-CH520 Wireless Headphones,Electronics,Headphones,Sony,5990,4299,28.23,3681,Retailnet,4.2,19901
+PROD0023,JBL Tune 760NC Headphones,Electronics,Headphones,JBL,7999,5499,31.25,3581,Omnitechretail,3.8,20757
+PROD0024,Noise Buds VS104 TWS Earbuds,Electronics,Headphones,Noise,3499,1299,62.88,850,Visionstar,4.6,33626
+PROD0025,Boult Z40 Pro TWS Earbuds,Electronics,Headphones,Boult,4999,1499,70.01,1149,Truecomretail,3.7,30290
+PROD0026,Noise ColorFit Pro 5 Smartwatch,Electronics,Smart Watches,Noise,6999,3499,50.01,2535,Truecomretail,3.9,38272
+PROD0027,Fire-Boltt Ninja Call Pro Plus,Electronics,Smart Watches,Fire-Boltt,4999,1799,64.01,1263,Visionstar,4.5,6143
+PROD0028,boAt Wave Sigma Smartwatch,Electronics,Smart Watches,boAt,5999,1999,66.68,1538,Omnitechretail,4.4,21399
+PROD0029,Samsung Galaxy Watch6,Electronics,Smart Watches,Samsung,34999,22999,34.29,18778,Truecomretail,4.1,37883
+PROD0030,Allen Solly Men Regular Fit Shirt,Fashion,Men Shirts,Allen Solly,2299,1199,47.85,985,Supercomnet,4.3,19806
+PROD0031,Peter England Cotton Formal Shirt,Fashion,Men Shirts,Peter England,1999,999,50.03,657,Homestore India,3.7,3784
+PROD0032,Louis Philippe Slim Fit Shirt,Fashion,Men Shirts,Louis Philippe,2999,1599,46.68,1348,Fashionhub India,4.0,28582
+PROD0033,Levi's 511 Slim Fit Men Jeans,Fashion,Men Jeans,Levi's,3999,2299,42.51,1695,Supercomnet,4.6,14978
+PROD0034,Wrangler Men Regular Fit Jeans,Fashion,Men Jeans,Wrangler,3499,1899,45.73,1532,Retailnet,4.3,41551
+PROD0035,Flying Machine Men Blue Jeans,Fashion,Men Jeans,Flying Machine,2999,1499,50.02,1094,Visionstar,4.2,21046
+PROD0036,Puma Running Shoes for Men,Fashion,Men Shoes,Puma,4999,2499,50.01,1907,Truecomretail,4.0,14590
+PROD0037,Adidas Lite Racer Running Shoes,Fashion,Men Shoes,Adidas,5599,2999,46.44,2045,Homestore India,4.7,39122
+PROD0038,Nike Revolution Running Shoes,Fashion,Men Shoes,Nike,6495,3999,38.43,3082,Supercomnet,3.8,19111
+PROD0039,Sparx Men Sports Shoes,Fashion,Men Shoes,Sparx,1999,899,55.03,732,Truecomretail,3.7,5529
+PROD0040,Biba Women Printed Cotton Kurta,Fashion,Women Kurtas,Biba,2499,1299,48.02,974,Retailnet,4.2,17326
+PROD0041,W Women Straight Fit Kurta,Fashion,Women Kurtas,W,2999,1599,46.68,1067,Homestore India,4.5,8664
+PROD0042,ONLY Women Casual Top,Fashion,Women Tops,ONLY,1999,999,50.03,809,Dailyneeds Mart,4.2,32092
+PROD0043,Vero Moda Women Printed Top,Fashion,Women Tops,Vero Moda,2299,1199,47.85,878,Omnitechretail,4.2,34477
+PROD0044,Levi's Women Skinny Fit Jeans,Fashion,Women Jeans,Levi's,4499,2599,42.23,1823,Supercomnet,3.9,28304
+PROD0045,Puma Women Walking Shoes,Fashion,Women Shoes,Puma,4499,2299,48.9,1650,Supercomnet,3.7,27224
+PROD0046,Bata Women Comfort Sandals,Fashion,Women Shoes,Bata,1299,699,46.19,516,Fashionhub India,3.8,22698
+PROD0047,Prestige Omega Deluxe Non-Stick Pan,Home & Kitchen,Cookware,Prestige,1895,1099,42.01,851,Retailnet,4.4,11212
+PROD0048,Hawkins Contura Pressure Cooker 3L,Home & Kitchen,Cookware,Hawkins,2450,1899,22.49,1628,Dailyneeds Mart,4.3,28986
+PROD0049,Pigeon Non-Stick Cookware Set,Home & Kitchen,Cookware,Pigeon,3495,1899,45.67,1252,Omnitechretail,3.8,24618
+PROD0050,Philips Daily Collection Mixer Grinder,Home & Kitchen,Kitchen Appliances,Philips,4495,3199,28.83,2184,Supercomnet,3.7,3694
+PROD0051,Prestige Electric Kettle 1.5L,Home & Kitchen,Kitchen Appliances,Prestige,1495,899,39.87,630,Truecomretail,4.6,18973
+PROD0052,Butterfly Smart Mixer Grinder,Home & Kitchen,Kitchen Appliances,Butterfly,4999,2799,44.01,1827,Supercomnet,3.9,30999
+PROD0053,Wakefit Orthopedic Mattress Queen Size,Home & Kitchen,Furniture,Wakefit,17999,10999,38.89,7201,Omnitechretail,4.4,14005
+PROD0054,Nilkamal Plastic Chair Set of 4,Home & Kitchen,Furniture,Nilkamal,4999,2999,40.01,2077,Visionstar,4.2,40951
+PROD0055,D'Decor Door Curtains Set,Home & Kitchen,Home Decor,D'Decor,3499,1799,48.59,1445,Truecomretail,4.4,43915
+PROD0056,Bombay Dyeing Cotton Bedsheet King Size,Home & Kitchen,Bedding,Bombay Dyeing,2499,1199,52.02,783,Retailnet,3.9,4059
+PROD0057,Samsung Crystal 4K 43 inch Smart TV,Appliances,Television,Samsung,46900,31999,31.77,22707,Visionstar,3.7,43030
+PROD0058,LG 43 inch 4K Ultra HD Smart TV,Appliances,Television,LG,52990,34999,33.95,29696,Supercomnet,4.0,17900
+PROD0059,Sony Bravia 43 inch 4K Smart TV,Appliances,Television,Sony,64900,49999,22.96,39460,Fashionhub India,4.6,1370
+PROD0060,Whirlpool 184L 3 Star Refrigerator,Appliances,Refrigerator,Whirlpool,20990,15499,26.16,11026,Homestore India,3.9,25069
+PROD0061,Samsung 236L Double Door Refrigerator,Appliances,Refrigerator,Samsung,34990,26999,22.84,20432,Supercomnet,4.6,31882
+PROD0062,LG 7kg Front Load Washing Machine,Appliances,Washing Machine,LG,42990,32999,23.24,27455,Supercomnet,3.8,32930
+PROD0063,IFB 6kg Front Load Washing Machine,Appliances,Washing Machine,IFB,36990,28999,21.6,24736,Retailnet,3.6,34815
+PROD0064,Voltas 1.5 Ton 3 Star Split AC,Appliances,Air Conditioner,Voltas,49990,36999,25.99,26418,Dailyneeds Mart,4.0,10409
+PROD0065,Daikin 1.5 Ton 5 Star Inverter AC,Appliances,Air Conditioner,Daikin,57990,44999,22.4,29422,Fashionhub India,4.0,19933
+PROD0066,Himalaya Purifying Neem Face Wash 150ml,Beauty,Skincare,Himalaya,199,149,25.13,104,Visionstar,4.5,41131
+PROD0067,Mamaearth Ubtan Face Wash 100ml,Beauty,Skincare,Mamaearth,259,199,23.17,140,Homestore India,4.6,2051
+PROD0068,Nivea Soft Light Moisturizer 300ml,Beauty,Skincare,Nivea,425,329,22.59,279,Visionstar,3.8,22519
+PROD0069,L'Oreal Paris Total Repair Shampoo 650ml,Beauty,Haircare,L'Oreal Paris,699,549,21.46,460,Truecomretail,3.7,25168
+PROD0070,Dove Intense Repair Shampoo 650ml,Beauty,Haircare,Dove,620,499,19.52,378,Omnitechretail,4.1,37665
+PROD0071,Tresemme Keratin Smooth Shampoo 580ml,Beauty,Haircare,Tresemme,650,479,26.31,326,Visionstar,4.6,21700
+PROD0072,Philips BT3101 Beard Trimmer,Beauty,Grooming,Philips,1495,999,33.18,743,Truecomretail,3.8,9201
+PROD0073,Gillette Mach3 Razor Blades Pack,Beauty,Grooming,Gillette,475,399,16.0,308,Omnitechretail,4.5,20370
+PROD0074,India Gate Basmati Rice 5kg,Grocery,Staples,India Gate,899,649,27.81,515,Truecomretail,4.1,9632
+PROD0075,Aashirvaad Atta 10kg,Grocery,Staples,Aashirvaad,620,499,19.52,393,Truecomretail,3.9,36645
+PROD0076,Tata Sampann Toor Dal 1kg,Grocery,Staples,Tata Sampann,220,179,18.64,136,Supercomnet,3.8,9656
+PROD0077,Britannia Good Day Cookies 600g,Grocery,Snacks,Britannia,180,145,19.44,116,Fashionhub India,4.6,27254
+PROD0078,Haldiram's Bhujia Sev 1kg,Grocery,Snacks,Haldiram's,340,279,17.94,237,Visionstar,4.1,41856
+PROD0079,Tata Tea Gold 1kg,Grocery,Beverages,Tata Tea,650,559,14.0,472,Visionstar,3.8,12436
+PROD0080,Nescafe Classic Coffee 200g,Grocery,Beverages,Nescafe,699,579,17.17,389,Truecomretail,3.6,40226
+PROD0081,Atomic Habits by James Clear,Books & Stationery,Books,Penguin,799,399,50.06,311,Omnitechretail,4.3,15253
+PROD0082,The Psychology of Money,Books & Stationery,Books,Rupa,399,249,37.59,197,Fashionhub India,3.7,31354
+PROD0083,Classmate Notebook Pack of 6,Books & Stationery,Stationery,Classmate,420,299,28.81,202,Dailyneeds Mart,4.4,24627
+PROD0084,Cello Ball Pen Pack of 20,Books & Stationery,Stationery,Cello,200,149,25.5,102,Homestore India,4.1,9132
